@@ -1,0 +1,42 @@
+{
+  "collection_metadata": {
+    "title": "Maamarim Collection - Chassidic Discourses",
+    "description": "Collection of Chassidic discourses (Maamarim) with Hebrew text, footnotes, and glossary. Optimized for LLM search.",
+    "total_documents": 195,
+    "languages": [
+      "Hebrew",
+      "Aramaic",
+      "Yiddish",
+      "English"
+    ],
+    "date_range": "1941-1968",
+    "structure_note": "Each document contains main text divided into searchable chunks, footnotes, and glossary sections",
+    "conversion_date": "2025-11-07T13:33:30.946772",
+    "original_file": "maamarim.txt"
+  },
+  "document": {
+    "id": "5_רצה",
+    "reference": "Reference: 5_רצה",
+    "metadata": {
+      "hebrew_date": "",
+      "gregorian_date": "",
+      "author": "כ\"ק מו\"ח אדמו\"ר",
+      "opening_phrase": "",
+      "topics": [],
+      "key_concepts": [],
+      "biblical_references": [],
+      "talmudic_references": [],
+      "chassidic_references": [],
+      "document_type": "מאמר",
+      "word_count": 0,
+      "chunk_count": 0
+    },
+    "content": {
+      "main_text": "",
+      "main_text_chunks": [],
+      "footnotes": "",
+      "glossary": "|- All Chassidic/Kabbalistic concepts; - All Jewish concepts and terms; - All abbreviations; - All names and references; - All places and time periods; - All source texts; - All spiritual levels and worlds; - All verbs and actions; - Every thematic or conceptual term; 1. The main text content; 2. Any footnotes content; I notice that the text content appears to be missing from your request. You've provided a reference \"5_רצה\" and the structure for MAIN TEXT and FOOTNOTES, but the actual text content is not included.; Once you provide the actual text, I'll be able to extract ALL keywords comprehensively according to the rubric, including:; Please share the text content so I can provide the complete keyword extraction.; To extract keywords according to the rubric, I need the actual Hebrew text content. Could you please provide:;"
+    },
+    "search_tags": []
+  }
+}

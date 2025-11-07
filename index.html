@@ -124,14 +124,24 @@
         <h1>📚 Maamarim Collection - Chassidic Discourses</h1>
         
         <div class="perplexity-box">
-            <strong>🔍 For Perplexity and Other LLMs:</strong>
-            <p><strong>IMPORTANT:</strong> Perplexity needs direct access to the JSON file, not this HTML page. Use this URL in your Perplexity query:</p>
-            <code>https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_structured.json</code>
-            <p><strong>Example Perplexity Query:</strong></p>
+            <strong>🔍 For Grok, Perplexity, and Other LLMs:</strong>
+            <p><strong>IMPORTANT:</strong> The main JSON file (12.22 MB) is too large for most LLMs to parse. Use the split files instead!</p>
+            
+            <p><strong>Step 1:</strong> First, check the master index to find which chunk files contain your topic:</p>
+            <code>https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_master_index.json</code>
+            
+            <p><strong>Step 2:</strong> Then search the relevant chunk files (each ~0.6 MB, much easier to parse):</p>
+            <code>https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_chunks/maamarim_chunk_01.json</code><br>
+            <code>https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_chunks/maamarim_chunk_02.json</code><br>
+            <small>(... and 18 more chunk files)</small>
+            
+            <p><strong>Example Grok Query:</strong></p>
             <p style="background: white; padding: 10px; border-radius: 5px; margin-top: 10px;">
-                "Search in https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_structured.json for documents containing 'באתי לגני' (Bati leGani)"
+                "First, check https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_master_index.json to find which chunk files contain documents about 'שכינה' (Shechinah). Then search those chunk files for the content."
             </p>
-            <p style="margin-top: 15px;"><strong>Why this URL?</strong> The raw GitHub URL gives Perplexity direct access to the structured JSON data, allowing it to search through all 195 documents, metadata, topics, and text chunks.</p>
+            
+            <p style="margin-top: 15px;"><strong>Alternative:</strong> For a specific document, use individual document files:</p>
+            <code>https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_docs/maamarim_doc_1_ג.json</code>
         </div>
 
         <div class="stats">
@@ -155,9 +165,11 @@
 
         <h2>📥 Data Files</h2>
         <div class="links">
-            <a href="https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_structured.json" target="_blank">Main JSON File</a>
+            <a href="https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_master_index.json" target="_blank">Master Index</a>
             <a href="https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_quick_reference.txt" target="_blank">Quick Reference</a>
+            <a href="https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_structured.json" target="_blank">Full JSON (12.22 MB)</a>
         </div>
+        <p style="color: #d32f2f; font-weight: bold; margin-top: 10px;">⚠️ Warning: The full JSON file is 12.22 MB and may be too large for some LLMs. Use the split chunk files instead!</p>
 
         <h2>🔍 Search Capabilities</h2>
         <p>Each document includes:</p>
@@ -185,56 +197,89 @@
             </li>
         </ul>
 
-        <h2>🌐 Usage Instructions</h2>
-        <p><strong>For Perplexity:</strong></p>
+        <h2>🌐 Usage Instructions for LLMs (Grok, Perplexity, etc.)</h2>
+        
+        <h3>Method 1: Using Split Chunk Files (Recommended)</h3>
         <ol>
-            <li><strong>Always use the raw GitHub URL:</strong> <code>https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_structured.json</code></li>
-            <li><strong>Include the URL in your query:</strong> "Search in [URL] for..."</li>
-            <li><strong>Perplexity can search by:</strong>
+            <li><strong>Step 1 - Check Master Index:</strong> Query the master index to find which chunks contain your topic:
+                <code>https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_master_index.json</code>
                 <ul>
-                    <li>Hebrew topics (שכינה, צדיקים)</li>
-                    <li>English concepts (Divine Presence, Righteous ones)</li>
-                    <li>Dates (1951, תשי"א)</li>
-                    <li>References (biblical, talmudic citations)</li>
-                    <li>Opening phrases (באתי לגני)</li>
-                    <li>Document IDs (1_ג, 1_יג)</li>
+                    <li>Check <code>topic_to_chunks</code> for Hebrew topics (e.g., "שכינה")</li>
+                    <li>Check <code>concept_to_chunks</code> for English concepts (e.g., "Divine Presence")</li>
+                    <li>Check <code>date_to_chunks</code> for dates</li>
+                    <li>Check <code>doc_id_to_chunk</code> for specific document IDs</li>
                 </ul>
             </li>
-            <li><strong>Search fields:</strong> The JSON has these searchable fields:
+            <li><strong>Step 2 - Search Chunk Files:</strong> Once you know which chunks (e.g., chunks 1, 2, 3), search those specific files:
+                <code>https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_chunks/maamarim_chunk_01.json</code>
                 <ul>
-                    <li><code>metadata.topics</code> - Hebrew topics array</li>
-                    <li><code>metadata.key_concepts</code> - English concepts</li>
-                    <li><code>metadata.opening_phrase</code> - Opening phrases</li>
-                    <li><code>content.main_text_chunks</code> - Searchable text chunks</li>
-                    <li><code>search_tags</code> - All search keywords</li>
+                    <li>Each chunk file is ~0.6 MB (much easier for LLMs to parse)</li>
+                    <li>Each chunk contains 10 documents</li>
+                    <li>There are 20 chunk files total</li>
                 </ul>
             </li>
         </ol>
-
-        <h2>📊 Example Perplexity Queries</h2>
-        <p><strong>Copy and paste these queries into Perplexity:</strong></p>
+        
+        <h3>Method 2: Using Individual Document Files</h3>
+        <p>For a specific document, use the individual file:</p>
+        <code>https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_docs/maamarim_doc_1_ג.json</code>
+        
+        <h3>Method 3: Using Full File (Not Recommended)</h3>
+        <p>The full file is 12.22 MB and may exceed LLM token limits:</p>
+        <code>https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_structured.json</code>
+        
+        <h3>Search Capabilities:</h3>
         <ul>
-            <li>"Search in https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_structured.json for documents about שכינה (Divine Presence)"</li>
-            <li>"Find maamarim from 1951 in https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_structured.json about צדיקים"</li>
-            <li>"Show me discussions of the Tabernacle (משכן) in https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_structured.json"</li>
-            <li>"What documents contain 'באתי לגני' in https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_structured.json?"</li>
-            <li>"Search the metadata.opening_phrase field in https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_structured.json for 'באתי לגני אחותי כלה'"</li>
+            <li>Hebrew topics (שכינה, צדיקים)</li>
+            <li>English concepts (Divine Presence, Righteous ones)</li>
+            <li>Dates (1951, תשי"א)</li>
+            <li>References (biblical, talmudic citations)</li>
+            <li>Opening phrases (באתי לגני)</li>
+            <li>Document IDs (1_ג, 1_יג)</li>
         </ul>
 
-        <h2>📝 File Formats</h2>
+        <h2>📊 Example LLM Queries (Grok, Perplexity, etc.)</h2>
+        <p><strong>Copy and paste these queries:</strong></p>
+        
+        <p><strong>Example 1 - Topic Search:</strong></p>
+        <p style="background: #f5f5f5; padding: 10px; border-radius: 5px; font-family: monospace; font-size: 0.9em;">
+            First, check https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_master_index.json to find which chunk files contain documents about 'שכינה' (Shechinah/Divine Presence). Then search those chunk files for the content.
+        </p>
+        
+        <p><strong>Example 2 - Date Search:</strong></p>
+        <p style="background: #f5f5f5; padding: 10px; border-radius: 5px; font-family: monospace; font-size: 0.9em;">
+            Check https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_master_index.json to find chunk files containing documents from 1951. Then search those chunks for content about צדיקים (Righteous ones).
+        </p>
+        
+        <p><strong>Example 3 - Specific Document:</strong></p>
+        <p style="background: #f5f5f5; padding: 10px; border-radius: 5px; font-family: monospace; font-size: 0.9em;">
+            Read https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_docs/maamarim_doc_1_ג.json and tell me what it says about שכינה בתחתונים.
+        </p>
+        
+        <p><strong>Example 4 - Opening Phrase:</strong></p>
+        <p style="background: #f5f5f5; padding: 10px; border-radius: 5px; font-family: monospace; font-size: 0.9em;">
+            Check the master index at https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_master_index.json to find which chunk contains document 1_ג, then search that chunk for 'באתי לגני אחותי כלה'.
+        </p>
+
+        <h2>📝 File Structure</h2>
         <ul>
-            <li><strong>maamarim_structured.json</strong> - Complete structured data with all content</li>
+            <li><strong>maamarim_master_index.json</strong> (0.04 MB) - Master index mapping topics/concepts to chunk files</li>
+            <li><strong>maamarim_chunks/</strong> - 20 chunk files (~0.6 MB each, 10 documents per chunk)</li>
+            <li><strong>maamarim_docs/</strong> - 195 individual document files (one per document)</li>
+            <li><strong>maamarim_structured.json</strong> (12.22 MB) - Complete file (may be too large for some LLMs)</li>
             <li><strong>maamarim_quick_reference.txt</strong> - Human-readable overview</li>
         </ul>
 
         <h2>🔗 Direct Data URLs</h2>
-        <p><strong>For Perplexity and LLMs (use these URLs):</strong></p>
+        <p><strong>For Grok, Perplexity, and LLMs:</strong></p>
         <ul>
-            <li><strong>Main JSON File:</strong> <code>https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_structured.json</code></li>
+            <li><strong>Master Index (START HERE):</strong> <code>https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_master_index.json</code></li>
+            <li><strong>Chunk Files:</strong> <code>https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_chunks/maamarim_chunk_01.json</code> (through chunk_20.json)</li>
+            <li><strong>Individual Documents:</strong> <code>https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_docs/maamarim_doc_1_ג.json</code></li>
             <li><strong>Quick Reference:</strong> <code>https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_quick_reference.txt</code></li>
         </ul>
         <p><strong>GitHub Pages URL (this page):</strong> <code>https://nisyron.github.io/chabad_data/</code></p>
-        <p style="color: #d32f2f; font-weight: bold;">⚠️ Note: For Perplexity searches, always use the raw GitHub URLs above, not the GitHub Pages URL.</p>
+        <p style="color: #d32f2f; font-weight: bold;">⚠️ Important: Always start with the master index to find which chunk files to search. The full JSON file (12.22 MB) may be too large for LLMs to parse.</p>
     </div>
 </body>
 </html>

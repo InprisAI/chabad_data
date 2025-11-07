@@ -1,0 +1,98 @@
+{
+  "collection_metadata": {
+    "title": "Maamarim Collection - Chassidic Discourses",
+    "description": "Collection of Chassidic discourses (Maamarim) with Hebrew text, footnotes, and glossary. Optimized for LLM search.",
+    "total_documents": 195,
+    "languages": [
+      "Hebrew",
+      "Aramaic",
+      "Yiddish",
+      "English"
+    ],
+    "date_range": "1941-1968",
+    "structure_note": "Each document contains main text divided into searchable chunks, footnotes, and glossary sections",
+    "conversion_date": "2025-11-07T13:33:30.946772",
+    "original_file": "maamarim.txt"
+  },
+  "document": {
+    "id": "1_לז",
+    "reference": "Reference: 1_לז",
+    "metadata": {
+      "hebrew_date": "",
+      "gregorian_date": "",
+      "author": "כ\"ק מו\"ח אדמו\"ר",
+      "opening_phrase": "",
+      "topics": [
+        "אור",
+        "יסוד",
+        "מצוות",
+        "תורה",
+        "דור",
+        "תשובה",
+        "רבי"
+      ],
+      "key_concepts": [
+        "Light",
+        "Foundation",
+        "Commandments",
+        "Torah",
+        "Generation",
+        "Repentance",
+        "Rabbi"
+      ],
+      "biblical_references": [],
+      "talmudic_references": [
+        "תניא",
+        "תניא",
+        "תניא",
+        "תניא",
+        "תניא",
+        "זהר",
+        "זהר",
+        "סנהדרין קה, ב"
+      ],
+      "chassidic_references": [
+        "אדמו\"ר הזקן",
+        "אדמו\"ר האמצעי"
+      ],
+      "document_type": "מאמר",
+      "word_count": 246,
+      "chunk_count": 1
+    },
+    "content": {
+      "main_text": "הערות לד\"ה באתי לגני, תשי\"גמכ\"ק אדמו\"ר שליט\"אבמענה על שאלות רבים במאמר באתי לגני, ה'תשי\"ג סוף סעיף ב וז\"ל: או\"ה וקליפות וסט\"א אין עוברים רצונו ית', אלא דקרו לי' אלקא דאלקיא כו' אבל מ\"מ אין מורדים בו ית'.ולכאורה קשה:א) הרי מצינו מאו\"ה עוברים על שבע מצות ב\"נ שנצטוו עליהם.והתירוץ פשוט, שהוא, ע\"ד המבואר בנוגע לבנ\"י, מפני רוח שטות שנכנס בו ומכסה ומסתיר על האמת שזהו בסתירה למה דקרי לי' אלקא דאלקיא. אבל מצד עצמם כמו שנשפעו מהקליפות וסט\"א הם באופן שלא יעברו ולא ימרדו, וכמו בלעם שאמר לא אוכל לעבור את פי ה' (עיין תניא פכ\"ד), אף שבא על אתונו (סנהדרין קה, ב. זהר ח\"א קכח, ב), שזהו מז' מצוות ב\"נ. או1 \"שמפני גודל ועוצם עוונם\" לבם שליט על מוחם (ע\"ד משנ\"ת בנוגע לבנ\"י – תניא פי\"ז), אף שהוא היפך התולדה גם בב\"נ (ראה תניא פנ\"א).ב) הרי מצינו או\"ה מכחישים מציאות אלוקה לגמרי.והנה קושיא זו אינה על המאמר, כי אם על מרז\"ל (מנחות בסופה) דקרו לי' אלקא דאלקיא (ונלמד שם מקרא – ממזרח שמש ועד מבואו גו'), אשר מרז\"ל זה הוא יסוד המבואר במאמר.והביאור בזה מובן ממש\"כ בס' המצות להצמח צדק סוף מצות אחדות ה' עיי\"ש. ואכ\"מ.ג) במאמר שם ס\"ז בתחילתו, אשר כמעט כל הנשמות שבדורותינו נקראים בשם זרע בהמה. איפוא המקור ע\"ז?כן הוא בתורה אור לאדמו\"ר הזקן (בעל התניא והשו\"ע) ר\"פ משפטים. והוא מיוסד על מש\"כ בזהר ח\"ב ר\"פ משפטים (צד, סע\"ב). ראה רמ\"ז שם. וראה גם לקוטי תורה לרבנו הזקן פ' צו (ח, ב ואילך). שערי תשובה (לבנו אדמו\"ר האמצעי) ח\"א ד\"ה ששים המה. ובכ\"מ.",
+      "main_text_chunks": [
+        {
+          "chunk_id": "chunk_1",
+          "content": "הערות לד\"ה באתי לגני, תשי\"גמכ\"ק אדמו\"ר שליט\"אבמענה על שאלות רבים במאמר באתי לגני, ה'תשי\"ג סוף סעיף ב וז\"ל: או\"ה וקליפות וסט\"א אין עוברים רצונו ית', אלא דקרו לי' אלקא דאלקיא כו' אבל מ\"מ אין מורדים בו ית'.ולכאורה קשה:א) הרי מצינו מאו\"ה עוברים על שבע מצות ב\"נ שנצטוו עליהם.והתירוץ פשוט, שהוא, ע\"ד המבואר בנוגע לבנ\"י, מפני רוח שטות שנכנס בו ומכסה ומסתיר על האמת שזהו בסתירה למה דקרי לי' אלקא דאלקיא אבל מצד עצמם כמו שנשפעו מהקליפות וסט\"א הם באופן שלא יעברו ולא ימרדו, וכמו בלעם שאמר לא אוכל לעבור את פי ה' (עיין תניא פכ\"ד), אף שבא על אתונו (סנהדרין קה, ב זהר ח\"א קכח, ב), שזהו מז' מצוות ב\"נ או1 \"שמפני גודל ועוצם עוונם\" לבם שליט על מוחם (ע\"ד משנ\"ת בנוגע לבנ\"י – תניא פי\"ז), אף שהוא היפך התולדה גם בב\"נ (ראה תניא פנ\"א).ב) הרי מצינו או\"ה מכחישים מציאות אלוקה לגמרי.והנה קושיא זו אינה על המאמר, כי אם על מרז\"ל (מנחות בסופה) דקרו לי' אלקא דאלקיא (ונלמד שם מקרא – ממזרח שמש ועד מבואו גו'), אשר מרז\"ל זה הוא יסוד המבואר במאמר.והביאור בזה מובן ממש\"כ בס' המצות להצמח צדק סוף מצות אחדות ה' עיי\"ש ואכ\"מ.ג) במאמר שם ס\"ז בתחילתו, אשר כמעט כל הנשמות שבדורותינו נקראים בשם זרע בהמה איפוא המקור ע\"ז?כן הוא בתורה אור לאדמו\"ר הזקן (בעל התניא והשו\"ע) ר\"פ משפטים והוא מיוסד על מש\"כ בזהר ח\"ב ר\"פ משפטים (צד, סע\"ב) ראה רמ\"ז שם וראה גם לקוטי תורה לרבנו הזקן פ' צו (ח, ב ואילך) שערי תשובה (לבנו אדמו\"ר האמצעי) ח\"א ד\"ה ששים המה ובכ\"מ",
+          "topics": [
+            "אור",
+            "יסוד",
+            "מצוות",
+            "תורה",
+            "דור"
+          ],
+          "word_count": 246
+        }
+      ],
+      "footnotes": "1 או \"שמפני .. תניא פנ\"א: הוספה לאחר זמן.",
+      "glossary": "|אדמו\"ר (Admor): Adoneinu Moreinu veRabbeinu (Our Master, Our Teacher, and Our Rabbi); אדמו\"ר האמצעי (Admor HaEmtza'i): The Middle Rebbe; או\"ה (Umot HaOlam): Nations of the world; אוכל (Uchal): I can; אחדות (Achdut): Unity; אינה (Einah): Is not; איפוא (Eifo): Therefore; אלוקה (Elokah): God; אלקא (Elaka): God; אמר (Amar): Said; אתונו (Atono): His donkey; ב\"נ (Bnei Noach): Children of Noah; בא (Ba): Came; באופן (BeOfen): In a manner; באתי (Ba'ati): I came; בהמה (Behemah): Animal; בכ\"מ (BeChol Makom): In many places; בלעם (Bilam): Balaam; במענה (BeMa'aneh): In response; בנ\"י (Bnei Yisrael): Children of Israel; בנוגע (BeNoga): Regarding; בסופה (BeSofah): At its end; בסתירה (BiStira): In contradiction; בעל (Ba'al): Master of; בשם (BeShem): By the name; בתחילתו (BiTchilato): At its beginning; גודל (Godel): Greatness; ד\"ה (Dibur HaMatchil): Opening words; דאלקיא (DeElakia): of gods; דקרו (DeKaru): That they call; ה' (Hashem): God; האמת (HaEmet): The truth; הביאור (HaBi'ur): The explanation; הוספה (Hosafah): Addition; היפך (Heifech): Opposite; המבואר (HaMevo'ar): That which is explained; המה (Hemah): They are; המצות (HaMitzvot): The Commandments; המקור (HaMakor): The source; הנשמות (HaNeshamot): The souls; הצמח צדק (HaTzemach Tzedek): The Tzemach Tzedek; התולדה (HaToldah): The result; התירוץ (HaTeirutz): The answer; התניא (HaTanya): The Tanya; ואילך (VeEilach): And onwards; ואכ\"מ (VeAin Kan Makom): And there is no place here; והשו\"ע (VeHaShulchan Aruch): And the Shulchan Aruch; ועד (VeAd): And until; ועוצם (VeOtzem): And strength; זהר (Zohar): Zohar; זמן (Zman): Time; זרע (Zera): Seed; ח (Chet): 8; ח\"א (Chelek Alef): Part One; ח\"ב (Chelek Bet): Part Two; ימרדו (Yimredu): Will rebel; יסוד (Yesod): Foundation; יעברו (Ya'avru): Will transgress; ית' (Yitbarach): May He be blessed; כל (Kol): All; כמעט (Kim'at): Almost; לאדמו\"ר הזקן (LaAdmor HaZaken): To the Alter Rebbe; לאחר (Le'achar): After; לבם (Libam): Their heart; לבנו (Livno): To his son; לגמרי (LeGamrei): Completely; לגני (LeGani): to my garden; לי' (Lei): Him; לכאורה (LeChora): Seemingly; לעבור (La'avor): To transgress; לקוטי תורה (Likutei Torah): Likutei Torah; מאמר (Ma'amar): Discourse; מבואו (Mevo'o): Its setting; מובן (Muvan): Understood; מוחם (Mocham): Their brain; מורדים (Moredim): Rebel; מז' (MiSheva): From seven; מיוסד (Meyusad): Based; מכ\"ק (MiKvod Kedushat): From the honor of the holiness of; מכחישים (Machchishim): Deny; מכסה (Mechase): Covers; ממזרח (MiMizrach): From the east; ממש\"כ (MiMah SheKatuv): From what is written; מנחות (Menachot): Menachot; מסתיר (Mastir): Conceals; מפני (Mipnei): Because of; מצד (MiTzad): From the side of; מצות (Mitzvat): Commandment of; מצות (Mitzvot): Commandments; מציאות (Metziut): Existence; מצינו (Matzinu): We find; מקרא (Mikra): Scripture; מרז\"ל (MiRazal): From our Sages of blessed memory; מש\"כ (MiMah SheKatuv): From what is written; משנ\"ת (Mishneh Torah): Mishneh Torah; משפטים (Mishpatim): Mishpatim; נכנס (Nichnas): Enters; נלמד (Nilmad): We learn; נצטוו (Nitztavu): Were commanded; נקראים (Nikra'im): Are called; נשפעו (Nishpa'u): Were influenced; ס\"ז (Se'if Zayin): Section 7; ס' (Sefer): Book; סוף (Sof): End; סט\"א (Sitra Achra): Other side; סנהדרין (Sanhedrin): Sanhedrin; סע\"ב (Se'if Bet): Section B; סעיף (Se'if): Section; ע\"ד (Al Derech): In the manner of; ע\"ז (Al Zeh): On this; עוברים (Ovrim): Transgress; עוונם (Avonam): Their sin; עיי\"ש (Ayein Sham): See there; עליהם (Aleihem): Upon them; עצמם (Atzman): Themselves; פ' (Parashat): Torah portion; פי (Pi): Mouth; פי\"ז (Perek Yud Zayin): Chapter 17; פכ\"ד (Perek Chaf Dalet): Chapter 24; פנ\"א (Perek Nun Alef): Chapter 51; פשוט (Pashut): Simple; צד (Tzad): Page; צו (Tzav): Tzav; קושיא (Kushya): Question; קכח (Kuf Chaf Chet): 128; קליפות (Kelipot): Husks/shells; קשה (Kasheh): Difficult; ר\"פ (Rosh Perek): Beginning of chapter; רבים (Rabim): Many; רבנו הזקן (Rabbeinu HaZaken): Our master the Alter Rebbe; רוח (Ruach): Spirit; רמ\"ז (Remez): Hint; רצונו (Retzono): His will; שאלות (She'elot): Questions; שבדורותינו (SheBeDoroteinu): That are in our generations; שבע (Sheva): Seven; שטות (Shtut): Foolishness; שליט (Shalit): Rules; שליט\"א (Shlita): May he live long and good years; שמש (Shemesh): Sun; שערי תשובה (Sha'arei Teshuvah): Gates of Repentance; ששים (Shishim): Sixty; תורה אור (Torah Or): Torah Or; תניא (Tanya): Tanya; תשי\"ג (Tashyag): 5713 (1953);"
+    },
+    "search_tags": [
+      "דור",
+      "תורה",
+      "Rabbi",
+      "Light",
+      "Commandments",
+      "יסוד",
+      "Torah",
+      "Generation",
+      "תשובה",
+      "אור",
+      "רבי",
+      "מצוות",
+      "Repentance",
+      "Foundation"
+    ]
+  }
+}

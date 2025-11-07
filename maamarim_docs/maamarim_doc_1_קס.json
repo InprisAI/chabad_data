@@ -1,0 +1,42 @@
+{
+  "collection_metadata": {
+    "title": "Maamarim Collection - Chassidic Discourses",
+    "description": "Collection of Chassidic discourses (Maamarim) with Hebrew text, footnotes, and glossary. Optimized for LLM search.",
+    "total_documents": 195,
+    "languages": [
+      "Hebrew",
+      "Aramaic",
+      "Yiddish",
+      "English"
+    ],
+    "date_range": "1941-1968",
+    "structure_note": "Each document contains main text divided into searchable chunks, footnotes, and glossary sections",
+    "conversion_date": "2025-11-07T13:33:30.946772",
+    "original_file": "maamarim.txt"
+  },
+  "document": {
+    "id": "1_קס",
+    "reference": "Reference: 1_קס",
+    "metadata": {
+      "hebrew_date": "",
+      "gregorian_date": "",
+      "author": "כ\"ק מו\"ח אדמו\"ר",
+      "opening_phrase": "",
+      "topics": [],
+      "key_concepts": [],
+      "biblical_references": [],
+      "talmudic_references": [],
+      "chassidic_references": [],
+      "document_type": "מאמר",
+      "word_count": 0,
+      "chunk_count": 0
+    },
+    "content": {
+      "main_text": "",
+      "main_text_chunks": [],
+      "footnotes": "",
+      "glossary": "|Hebrew Term (Transliteration): English Meaning; I notice that the text you've provided appears to be incomplete or empty. The reference shows \"1_קס\" but there is no actual content in either the MAIN TEXT or FOOTNOTES sections.; Once you provide the full text, I'll be able to extract ALL the keywords following the format:; To properly extract keywords according to the rubric, I would need the actual Hebrew text content. Could you please provide the complete text that you'd like me to analyze for keyword extraction?;"
+    },
+    "search_tags": []
+  }
+}

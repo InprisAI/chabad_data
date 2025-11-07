@@ -1,0 +1,42 @@
+{
+  "collection_metadata": {
+    "title": "Maamarim Collection - Chassidic Discourses",
+    "description": "Collection of Chassidic discourses (Maamarim) with Hebrew text, footnotes, and glossary. Optimized for LLM search.",
+    "total_documents": 195,
+    "languages": [
+      "Hebrew",
+      "Aramaic",
+      "Yiddish",
+      "English"
+    ],
+    "date_range": "1941-1968",
+    "structure_note": "Each document contains main text divided into searchable chunks, footnotes, and glossary sections",
+    "conversion_date": "2025-11-07T13:33:30.946772",
+    "original_file": "maamarim.txt"
+  },
+  "document": {
+    "id": "3_קעא",
+    "reference": "Reference: 3_קעא",
+    "metadata": {
+      "hebrew_date": "",
+      "gregorian_date": "",
+      "author": "כ\"ק מו\"ח אדמו\"ר",
+      "opening_phrase": "",
+      "topics": [],
+      "key_concepts": [],
+      "biblical_references": [],
+      "talmudic_references": [],
+      "chassidic_references": [],
+      "document_type": "מאמר",
+      "word_count": 0,
+      "chunk_count": 0
+    },
+    "content": {
+      "main_text": "",
+      "main_text_chunks": [],
+      "footnotes": "",
+      "glossary": "|Hebrew Term (English Transliteration): English Meaning; I notice that the reference \"3_קעא\" appears to be a citation or page number, but no actual text content has been provided in either the MAIN TEXT or FOOTNOTES sections. Both sections are empty.; Once you provide the text, I will extract ALL important search terms following the format:; To extract keywords according to the rubric, I would need the actual Hebrew text content to analyze. Could you please provide the text that corresponds to reference \"3_קעא\" so I can perform the comprehensive keyword extraction as requested?;"
+    },
+    "search_tags": []
+  }
+}

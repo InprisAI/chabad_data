@@ -1,0 +1,158 @@
+{
+  "collection_metadata": {
+    "title": "Maamarim Collection - Chassidic Discourses",
+    "description": "Collection of Chassidic discourses (Maamarim) with Hebrew text, footnotes, and glossary. Optimized for LLM search.",
+    "total_documents": 195,
+    "languages": [
+      "Hebrew",
+      "Aramaic",
+      "Yiddish",
+      "English"
+    ],
+    "date_range": "1941-1968",
+    "structure_note": "Each document contains main text divided into searchable chunks, footnotes, and glossary sections",
+    "conversion_date": "2025-11-07T13:33:30.946772",
+    "original_file": "maamarim.txt"
+  },
+  "document": {
+    "id": "2_קטו",
+    "reference": "Reference: 2_קטו",
+    "metadata": {
+      "hebrew_date": "",
+      "gregorian_date": "",
+      "author": "כ\"ק מו\"ח אדמו\"ר",
+      "opening_phrase": "",
+      "topics": [
+        "אלקות",
+        "אור",
+        "גילוי",
+        "עולם",
+        "מלכות",
+        "דעת",
+        "יצחק",
+        "דוד",
+        "ישראל",
+        "דור",
+        "עבודה",
+        "ביטול",
+        "תכלית",
+        "חטא",
+        "תשובה",
+        "רבי"
+      ],
+      "key_concepts": [
+        "Divinity",
+        "Light",
+        "Revelation",
+        "World",
+        "Kingship",
+        "Knowledge",
+        "Isaac",
+        "David",
+        "Israel",
+        "Generation",
+        "Service",
+        "Nullification",
+        "Purpose",
+        "Sin",
+        "Repentance",
+        "Rabbi"
+      ],
+      "biblical_references": [
+        "שה\"ש יז, ג",
+        "תהלים קל, א"
+      ],
+      "talmudic_references": [
+        "תניא",
+        "תניא",
+        "זהר"
+      ],
+      "chassidic_references": [
+        "אדמו\"ר הזקן",
+        "לקו\"ת",
+        "לקו\"ת",
+        "לקו\"ת",
+        "לקו\"ת"
+      ],
+      "document_type": "מאמר",
+      "word_count": 518,
+      "chunk_count": 3
+    },
+    "content": {
+      "main_text": "בס\"ד. ש\"פ האזינו, שבת שובה ה'תשמ\"ח– התוועדות ב' – המשך להתוועדות יום ב' דראש השנה –שיר המעלות ממעמקים קראתיך הוי'1, הנה מזמור זה נתקן לאומרו בכל יום מעשרת ימי תשובה, מתחיל מראש השנה2 (שהוא היום הראשון דעשי\"ת), וכמה דרושי ראש השנה מתחילים בפסוק זה. ומובא ע\"ז בהדרושים3, דבפירוש ממעמקים יש שתי דיעות בזהר4 ר' יצחק ור' אבא, דר\"י מפרש ממעמקים של האדם, שהתפלה הנ\"ל היא ממעמקי נפשו של האדם5, ממעמקי הנפש של דוד המלך4 וכן של כאו\"א מישראל האומר מזמור זה, ור\"א מפרש ממעמקים של למעלה אתר גנוז הוא לעילא כו'. וממשיך בהמאמרים6, והנה פירוש ממעמקים הוא ב' עומקים, דזהו לפי שתי הדיעות הנ\"ל, וע\"פ זה מבאר דלדעת ר\"י הנה העומק לפנים מעומק הוא עומקא דליבא4 ולדעת ר\"א הרי זה עמיקא דעמיקתא בהמדריגות שלמעלה. וממשיך דעיקר הפירוש הוא דקאי על המדריגות שלמעלה, דהיינו שע\"י קראתיך מגיעים בבחי' עומק לפנים מעומק, עד שעולים לבחי' עומק כזה שהוא למעלה מהתחלקות של דרגות, ומשם קראתיך – נמשך – הוי'. והקשר דב' הפירושים (דמר אמר חדא ומר אמר חדא ולא פליגי) הוא, כי היכולת להמשיך מבחי' עומק זה שהוא למעלה מכל גדר התחלקות הוא ע\"י בחי' עומקא דליבא, שבא ע\"י עבודת התשובה, כמבואר בהמאמרים, וכמובן בפשטות שזהו תוכן מזמור זה (שיר המעלות ממעמקים), תפלת התשובה.ולהבין זה, איך על ידי עבודת התשובה ממשיכים מבחינת העומק לפנים מעומק שלמעלה, יש להקדים תחילה מה שמבואר בהמשך ראש השנה תרח\"ץ7 (לפני חמישים שנה), שיש שתי מדריגות בתשובה, ענין התשובה ומהות התשובה. דענין התשובה היא התשובה על ענינים פרטיים או אפילו על ענינים כלליים, אבל אף שהתשובה אינה על חטא ועון8 ופשע מ\"מ ענינה הוא שעולה בעבודתו בטוב עצמו9, שהולך ומוסיף בשלימות עבודתו עד שעבודה פרטית זו היא כדבעי וכדרוש, ועד שע\"י שמשלים כל הענינים הפרטיים הרי כללות עבודתו היא כדרוש. אמנם מהות התשובה הוא שממקום שהוא עומד בו במעמדו ומצבו הרוחני הוא עולה (ער שטעלט זיך איבער) למקום נעלה יותר, שהוא מעמד ומצב חדש ועד שאינו בערך כלל למצבו לפנ\"ז. והיינו שעולה למצב עליון שלא בערך כלל עד שאין לומר עליו לשון וגדר עליון ותחתון, דלשון עליון מורה שישנו תחתון והוא העליון בערכו, משא\"כ מהות התשובה היא בדרגא כזו שאינה בגדר וערך דעליון ותחתון, שאינו שייך כלל להמצב שלפנ\"ז (למעליותא)10, עד שנעשה מציאות חדשה שנעשית מאין ואפס ממש. וע\"י שעומד במעמד ומצב שאינו בערך כלל, ה\"ז פועל על כל פרטי העבודות וכל הפרטי פרטים, שהכל יהי' נתקן כדבעי. היינו שמכיון שהוא במעמד ומצב חדש באופן שכל המעשים שעושה הם טובים, וכלשון רז\"ל11 ודיוק הסדר בזה: תשובה ומעשים טובים, שע\"י התשובה תהי' תכלית השלימות בהמעשים12 ותכלית השלימות בהטוב ותכלית השלימות בישראל עושי המעשים טובים.וזהו13 שיר המעלות ממעמקים קראתיך הוי', דע\"י תשובה מעומקא דליבא, עומק לפנים מעומק, שהיא מהות התשובה, עי\"ז קוראים וממשיכים מלמעלה מבחי' עמיקא דעמיקתא, ועד לעומק כזה שאינו בגדר דרגות כלל. ועי\"ז מתקיימים בפשטות כל התפלות שבמזמור זה, שנמשך בחי' העומק העליון שלמעלה, בחי' העומק שלמעלה ממעמקים לשון רבים, עד שהוא למעלה מכל גדר עומק, ויורד עד למטה מטה ובגלוי ממש, ממש גם בזמן, תיכף ומיד, ויהי' ביטול כל ההגבלות וגילוי א\"ס האמיתי למטה, ויתירה מזו, שהרי לא שייך בו ית' גדר מעלה ומטה אלא הכל אחד, וזה מיוסד ונעשה ע\"י שהעומק דישראל והעומק שלמעלה נעשים דבר אחד, ממעמקים קראתיך14 שיהי' ישראל וקוב\"ה כולא חד15.",
+      "main_text_chunks": [
+        {
+          "chunk_id": "chunk_1",
+          "content": "בס\"ד ש\"פ האזינו, שבת שובה ה'תשמ\"ח– התוועדות ב' – המשך להתוועדות יום ב' דראש השנה –שיר המעלות ממעמקים קראתיך הוי'1, הנה מזמור זה נתקן לאומרו בכל יום מעשרת ימי תשובה, מתחיל מראש השנה2 (שהוא היום הראשון דעשי\"ת), וכמה דרושי ראש השנה מתחילים בפסוק זה ומובא ע\"ז בהדרושים3, דבפירוש ממעמקים יש שתי דיעות בזהר4 ר' יצחק ור' אבא, דר\"י מפרש ממעמקים של האדם, שהתפלה הנ\"ל היא ממעמקי נפשו של האדם5, ממעמקי הנפש של דוד המלך4 וכן של כאו\"א מישראל האומר מזמור זה, ור\"א מפרש ממעמקים של למעלה אתר גנוז הוא לעילא כו' וממשיך בהמאמרים6, והנה פירוש ממעמקים הוא ב' עומקים, דזהו לפי שתי הדיעות הנ\"ל, וע\"פ זה מבאר דלדעת ר\"י הנה העומק לפנים מעומק הוא עומקא דליבא4 ולדעת ר\"א הרי זה עמיקא דעמיקתא בהמדריגות שלמעלה וממשיך דעיקר הפירוש הוא דקאי על המדריגות שלמעלה, דהיינו שע\"י קראתיך מגיעים בבחי' עומק לפנים מעומק, עד שעולים לבחי' עומק כזה שהוא למעלה מהתחלקות של דרגות, ומשם קראתיך – נמשך – הוי' והקשר דב' הפירושים (דמר אמר חדא ומר אמר חדא ולא פליגי) הוא, כי היכולת להמשיך מבחי' עומק זה שהוא למעלה מכל גדר התחלקות הוא ע\"י בחי' עומקא דליבא, שבא ע\"י עבודת התשובה, כמבואר בהמאמרים, וכמובן בפשטות שזהו תוכן מזמור זה (שיר המעלות ממעמקים), תפלת התשובה.ולהבין זה, איך על ידי עבודת התשובה ממשיכים מבחינת העומק לפנים מעומק שלמעלה, יש להקדים תחילה מה שמבואר בהמשך ראש השנה תרח\"ץ7 (לפני חמישים שנה), שיש שתי מדריגות בתשובה, ענין התשובה ומהות התשובה",
+          "topics": [
+            "דעת",
+            "יצחק",
+            "דוד",
+            "ישראל",
+            "תשובה"
+          ],
+          "word_count": 233
+        },
+        {
+          "chunk_id": "chunk_2",
+          "content": "דענין התשובה היא התשובה על ענינים פרטיים או אפילו על ענינים כלליים, אבל אף שהתשובה אינה על חטא ועון8 ופשע מ\"מ ענינה הוא שעולה בעבודתו בטוב עצמו9, שהולך ומוסיף בשלימות עבודתו עד שעבודה פרטית זו היא כדבעי וכדרוש, ועד שע\"י שמשלים כל הענינים הפרטיים הרי כללות עבודתו היא כדרוש אמנם מהות התשובה הוא שממקום שהוא עומד בו במעמדו ומצבו הרוחני הוא עולה (ער שטעלט זיך איבער) למקום נעלה יותר, שהוא מעמד ומצב חדש ועד שאינו בערך כלל למצבו לפנ\"ז והיינו שעולה למצב עליון שלא בערך כלל עד שאין לומר עליו לשון וגדר עליון ותחתון, דלשון עליון מורה שישנו תחתון והוא העליון בערכו, משא\"כ מהות התשובה היא בדרגא כזו שאינה בגדר וערך דעליון ותחתון, שאינו שייך כלל להמצב שלפנ\"ז (למעליותא)10, עד שנעשה מציאות חדשה שנעשית מאין ואפס ממש וע\"י שעומד במעמד ומצב שאינו בערך כלל, ה\"ז פועל על כל פרטי העבודות וכל הפרטי פרטים, שהכל יהי' נתקן כדבעי היינו שמכיון שהוא במעמד ומצב חדש באופן שכל המעשים שעושה הם טובים, וכלשון רז\"ל11 ודיוק הסדר בזה: תשובה ומעשים טובים, שע\"י התשובה תהי' תכלית השלימות בהמעשים12 ותכלית השלימות בהטוב ותכלית השלימות בישראל עושי המעשים טובים.וזהו13 שיר המעלות ממעמקים קראתיך הוי', דע\"י תשובה מעומקא דליבא, עומק לפנים מעומק, שהיא מהות התשובה, עי\"ז קוראים וממשיכים מלמעלה מבחי' עמיקא דעמיקתא, ועד לעומק כזה שאינו בגדר דרגות כלל",
+          "topics": [
+            "ישראל",
+            "עבודה",
+            "תכלית",
+            "חטא",
+            "תשובה"
+          ],
+          "word_count": 211
+        },
+        {
+          "chunk_id": "chunk_3",
+          "content": "ועי\"ז מתקיימים בפשטות כל התפלות שבמזמור זה, שנמשך בחי' העומק העליון שלמעלה, בחי' העומק שלמעלה ממעמקים לשון רבים, עד שהוא למעלה מכל גדר עומק, ויורד עד למטה מטה ובגלוי ממש, ממש גם בזמן, תיכף ומיד, ויהי' ביטול כל ההגבלות וגילוי א\"ס האמיתי למטה, ויתירה מזו, שהרי לא שייך בו ית' גדר מעלה ומטה אלא הכל אחד, וזה מיוסד ונעשה ע\"י שהעומק דישראל והעומק שלמעלה נעשים דבר אחד, ממעמקים קראתיך14 שיהי' ישראל וקוב\"ה כולא חד15",
+          "topics": [
+            "גילוי",
+            "ישראל",
+            "ביטול",
+            "רבי"
+          ],
+          "word_count": 74
+        }
+      ],
+      "footnotes": "* ) יצא לאור בשעתו, \"וא\"ו תשרי שנת תשמ\"ח\".1) תהלים קל, א.2) שער הכוונות דרושי ראש השנה (לפני דרוש א') קרוב לתחלתו. פע\"ח שער תפלות ר\"ה פ\"ז. סידור אריז\"ל במקומו. מג\"א או\"ח סנ\"ד סק\"ב בשם כתבים. עט\"ז או\"ח ר\"ס תקפב. סידור אדמו\"ר הזקן במקומו. וראה גם לקו\"ת דרושים לר\"ה רד\"ה שיר המעלות ממעמקים (סב, ב).3) ד\"ה שיר המעלות תש\"ג (סה\"מ תש\"ג ע' 18 ואילך). וראה גם ד\"ה הנ\"ל תשל\"ט.4) ח\"ג סט, סע\"ב ואילך.5) ראה זח\"ב סג, ריש ע\"ב. ריש וסוף ד\"ה שיר המעלות ממעמקים תרס\"ח.6) סה\"מ תש\"ג שם ע' 19.7) ד\"ה: תקעו פ\"ב. שובה פ\"א. פ\"ו. בורא ניב שפתים דש\"פ האזינו פ\"א. וראה גם ד\"ה תקעו דש\"פ נצבים תרצ\"ז פ\"ד.8) ראה הנסמן בהערה הבאה. ד\"ה כבוד מלכותך תרח\"ץ פ\"ב. וראה גם ד\"ה שובה שנאמר בהתוועדות א.9) ראה לקו\"ת בלק עד, א. דרושים לר\"ה ס, ד. ר\"פ האזינו.10) כידוע בענין \"כל ימיו בתשובה\" (שבת קנג, א) שהוא אפילו אם \"כבר עשה תשובה נכונה\" (תניא פכ\"ט) – ראה לקו\"ש חכ\"ה ע' 15 ואילך. וש\"נ.11) אבות פ\"ד מי\"ז.12) ראה לקו\"ת (מטות פב, א. שמע\"צ פה, א. שה\"ש יז, ג) דע\"י קדימת התשובה המעשים נעשים טובים ומאירים.13) ראה ד\"ה תקעו תרח\"ץ (הנ\"ל) פ\"ב-ג.14) ראה לקו\"ת דרושים לר\"ה סד\"ה שיר המעלות ממעמקים (סג, ב): וזהו קראתיך ה' כאדם הקורא לחבירו שיבוא אצלו כך הוא קורא להשי\"ת שיתגלה אלקותו בעולם התחתון שיהי' נגלה כבוד ה' וראו כל בשר יחדו.15) ראה זח\"ג עג, א. להעיר מתניא בהקדמת המלקט (ג, ב).",
+      "glossary": "|אבות (Avot): Ethics of the Fathers; או\"ח (Orach Chaim): Path of Life; אלקותו (Elokuto): His Divinity; אתר גנוז (Atar Ganuz): Hidden place; בגלוי ממש (B'Giluy Mamash): In actual revelation; בו ית' (Bo Yitbarach): In Him, blessed be He; בורא ניב שפתים (Borei Niv Sefatayim): Creator of the fruit of the lips; בזמן (BiZman): In time; ביטול כל ההגבלות (Bitul Kol HaHagbalot): Nullification of all limitations; בלק (Balak): Torah portion Balak; בס\"ד (B'Siyata D'Shmaya): With Divine Assistance; בערך (B'Erech): In comparison; גדר (Geder): Boundary/Definition; גילוי א\"ס האמיתי (Giluy Ein Sof HaAmiti): Revelation of the true Infinite; דבר אחד (Davar Echad): One thing; דוד המלך (David HaMelech): King David; דרגות (Deragot): Levels/Grades; דרושי (Derushei): Homilies/Sermons; דרושים לר\"ה (Derushim L'Rosh Hashanah): Sermons for Rosh Hashanah; ה'תשמ\"ח (5748): Year 5748; האזינו (Ha'azinu): Torah portion \"Give Ear\"; הוי' (Havayah): The Tetragrammaton; הטוב (HaTuv): The good; הכל אחד (HaKol Echad): All is one; המאמרים (HaMa'amarim): The Chassidic discourses; המעשים (HaMa'asim): The deeds; המשך (Hemshech): Continuation/Discourse; העומק דישראל (HaOmek D'Yisrael): The depth of Israel; העומק העליון (HaOmek HaElyon): The upper depth; העומק שלמעלה (HaOmek SheLeMa'alah): The depth above; הקדמת המלקט (Hakdamat HaMelakket): Introduction of the compiler; השי\"ת (HaShem Yitbarach): The Name, blessed be He; התוועדות (Hitva'adut): Chassidic gathering; התחלקות (Hitchalkut): Division/Differentiation; ויתירה מזו (V'Yeteirah MiZo): And more than this; וראו כל בשר יחדו (V'Ra'u Kol Basar Yachdav): And all flesh shall see together; זהר (Zohar): The Zohar; זח\"ב (Zohar Chelek Bet): Zohar Part Two; ח\"ג (Chelek Gimel): Part Three; חטא (Chet): Sin; חכ\"ה (Chelek 25): Volume 25; חמישים שנה (Chamishim Shanah): Fifty years; טוב עצמו (Tuv Atzmo): His own good; יום ב' (Yom Bet): Second day; ישראל וקוב\"ה כולא חד (Yisrael V'Kudsha Brich Hu Kula Chad): Israel and the Holy One blessed be He are all one; ישראל עושי המעשים טובים (Yisrael Osei HaMa'asim Tovim): Israel who do good deeds; כאדם הקורא לחבירו (K'Adam HaKorei L'Chaveiro): Like a person calling to his friend; כאו\"א (Kol Echad V'Echad): Each and every one; כבוד מלכותך (Kavod Malchutcha): Glory of Your kingdom; כדבעי (KiD'Ba'ei): As required; כדרוש (KiDarush): As demanded; כל ימיו בתשובה (Kol Yamav BiTeshuvah): All his days in repentance; כללות עבודתו (Klalut Avodato): Totality of his service; לא פליגי (Lo Pligei): They do not disagree; למטה מטה (L'Matah Matah): Below below; למעליותא (L'Ma'aliyuta): To the heights; לעילא (L'Eila): Above; לפנ\"ז (Lifnei Zeh): Before this; לקו\"ש (Likutei Sichot): Collected Talks; לקו\"ת (Likutei Torah): Collected Torah; לשון רבים (Lashon Rabim): Plural form; מאין ואפס ממש (Me'Ayin V'Efes Mamash): From absolute nothingness; מאירים (Me'irim): Illuminating; מג\"א (Magen Avraham): Shield of Abraham; מדריגות (Madregot): Spiritual levels; מהות התשובה (Mahut HaTeshuvah): Essence of repentance; מזמור (Mizmor): Psalm; מטות (Matot): Torah portion \"Tribes\"; מי\"ז (Mishnah 17): Mishnah 17; מיוסד ונעשה (Meyusad V'Na'aseh): Founded and made; מישראל (MiYisrael): From Israel; ממעמקים (MiMa'amakim): From the depths; מעלה ומטה (Ma'alah U'Matah): Above and below; מעמד ומצב חדש (Ma'amad U'Matzav Chadash): New standing and state; מעמדו ומצבו הרוחני (Ma'amado U'Matzavo HaRuchani): His spiritual standing and state; מציאות חדשה (Metziyut Chadashah): New existence; מקום נעלה (Makom Na'aleh): Elevated place; מר אמר חדא (Mar Amar Chada): One says this; נגלה כבוד ה' (Niglah Kavod Hashem): The glory of God will be revealed; נצבים (Nitzavim): Torah portion \"You are standing\"; נתקן (Nitaken): Rectified; סד\"ה (Siman Dibur HaMatche'il): Sign of the beginning of discourse; סה\"מ (Sefer HaMa'amarim): Book of Discourses; סידור אדמו\"ר הזקן (Siddur Admor HaZaken): Prayer book of the Alter Rebbe; סידור אריז\"ל (Siddur Arizal): Prayer book of the Arizal; עבודת התשובה (Avodat HaTeshuvah): Service of repentance; עולם התחתון (Olam HaTachton): Lower world; עומק לפנים מעומק (Omek Lifnim MeOmek): Depth within depth; עומקא דליבא (Amka D'Liba): Depth of the heart; עומקים (Amakim): Depths; עון (Avon): Iniquity; עט\"ז (Ateret Zekeinim): Crown of Elders; עליון ותחתון (Elyon V'Tachton): Upper and lower; עמיקא דעמיקתא (Amika D'Amikta): Deepest of the deep; ענין התשובה (Inyan HaTeshuvah): Matter of repentance; ענינים כלליים (Inyanim Klaliyim): General matters; ענינים פרטיים (Inyanim Pratiyim): Particular matters; ער שטעלט זיך איבער (Er Shtelt Zich Iber): He elevates himself; עשי\"ת (Aseret Yemei Teshuvah): Ten Days of Repentance; עשרת ימי תשובה (Aseret Yemei Teshuvah): Ten Days of Repentance; פ\"ד (Perek Dalet): Chapter Four; פכ\"ט (Perek 29): Chapter 29; פע\"ח (Pri Etz Chaim): Fruit of the Tree of Life; פרטי העבודות (Pratei HaAvodot): Details of the services; פרטי פרטים (Pratei Pratim): Particular details; פשע (Pesha): Transgression; קדימת התשובה (Kedimut HaTeshuvah): Precedence of repentance; קל (130): Psalm 130; קראתיך (Karatikha): I called You; ר' אבא (Rabbi Abba): Rabbi Abba; ר' יצחק (Rabbi Yitzchak): Rabbi Isaac; ראש השנה (Rosh Hashanah): New Year; רד\"ה (Rosh Dibur HaMatche'il): Beginning of discourse; רז\"ל (Razal): Our Sages of blessed memory; ריש (Reish): Beginning; ש\"פ (Shabbat Parshat): Shabbat of Torah Portion; שבת (Shabbat): Sabbath; שבת שובה (Shabbat Shuvah): Shabbat of Return; שה\"ש (Shir HaShirim): Song of Songs; שובה (Shuvah): Return; שיר המעלות (Shir HaMa'alot): Song of Ascents; שלימות עבודתו (Shleimut Avodato): Perfection of his service; שמע\"צ (Shema Yisrael): Hear O Israel; שער הכוונות (Sha'ar HaKavanot): Gate of Intentions; תהלים (Tehillim): Psalms; תיכף ומיד (Teikef U'Miyad): Immediately; תכלית השלימות (Tachlit HaShleimut): Ultimate perfection; תניא (Tanya): The Tanya; תפלות (Tefilot): Prayers; תפלת התשובה (Tefilat HaTeshuvah): Prayer of repentance; תקעו (Tik'u): Blow; תרח\"ץ (5689): Year 5689; תרס\"ח (5668): Year 5668; תרצ\"ז (5697): Year 5697; תש\"ג (5703): Year 5703; תשובה ומעשים טובים (Teshuvah U'Ma'asim Tovim): Repentance and good deeds; תשל\"ט (5739): Year 5739;"
+    },
+    "search_tags": [
+      "דור",
+      "עבודה",
+      "חטא",
+      "תכלית",
+      "אלקות",
+      "Knowledge",
+      "רבי",
+      "World",
+      "מלכות",
+      "דעת",
+      "Isaac",
+      "יצחק",
+      "ביטול",
+      "Purpose",
+      "Nullification",
+      "Generation",
+      "Sin",
+      "דוד",
+      "Israel",
+      "ישראל",
+      "Kingship",
+      "Rabbi",
+      "Light",
+      "תשובה",
+      "אור",
+      "David",
+      "Revelation",
+      "Service",
+      "Divinity",
+      "גילוי",
+      "Repentance",
+      "עולם"
+    ]
+  }
+}

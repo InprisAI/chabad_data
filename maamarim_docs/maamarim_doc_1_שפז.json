@@ -1,0 +1,171 @@
+{
+  "collection_metadata": {
+    "title": "Maamarim Collection - Chassidic Discourses",
+    "description": "Collection of Chassidic discourses (Maamarim) with Hebrew text, footnotes, and glossary. Optimized for LLM search.",
+    "total_documents": 195,
+    "languages": [
+      "Hebrew",
+      "Aramaic",
+      "Yiddish",
+      "English"
+    ],
+    "date_range": "1941-1968",
+    "structure_note": "Each document contains main text divided into searchable chunks, footnotes, and glossary sections",
+    "conversion_date": "2025-11-07T13:33:30.946772",
+    "original_file": "maamarim.txt"
+  },
+  "document": {
+    "id": "1_שפז",
+    "reference": "Reference: 1_שפז",
+    "metadata": {
+      "hebrew_date": "",
+      "gregorian_date": "",
+      "author": "כ\"ק מו\"ח אדמו\"ר",
+      "opening_phrase": "",
+      "topics": [
+        "שכינה",
+        "אור",
+        "עולם",
+        "מלכות",
+        "יעקב",
+        "משה",
+        "אהרן",
+        "ישראל",
+        "קרבנות",
+        "תורה",
+        "גלות",
+        "עבודה",
+        "חטא",
+        "תשובה",
+        "תיקון",
+        "רבי"
+      ],
+      "key_concepts": [
+        "Shechinah/Divine Presence",
+        "Light",
+        "World",
+        "Kingship",
+        "Jacob",
+        "Moses",
+        "Aaron",
+        "Israel",
+        "Sacrifices",
+        "Torah",
+        "Exile",
+        "Service",
+        "Sin",
+        "Repentance",
+        "Rectification",
+        "Rabbi"
+      ],
+      "biblical_references": [
+        "במדבר א, ב",
+        "תהלים לח, ה",
+        "תהלים צח, ו",
+        "ישעי' מ, ה"
+      ],
+      "talmudic_references": [
+        "תניא",
+        "תניא",
+        "ברכות כו, ב",
+        "ברכות ל, ב",
+        "סנהדרין קב, סע",
+        "סנהדרין מו, א"
+      ],
+      "chassidic_references": [
+        "לקו\"ת",
+        "לקו\"ת",
+        "תו\"א"
+      ],
+      "document_type": "מאמר",
+      "word_count": 808,
+      "chunk_count": 4
+    },
+    "content": {
+      "main_text": "בס\"ד. ש\"פ משפטים, פ' שקלים, מבה\"ח וער\"ח אדר ה'תש\"מזה יתנו כל העובר על הפקודים מחצית השקל בשקל הקודש עשרים גרה השקל מחצית השקל תרומה לה' וגו'1 ומסיים2 לכפר על נפשותיכם. ומדייק בהמאמר דש\"פ משפטים ופ' שקלים תר\"פ (פר\"ת)3, דצלה\"ב מהו\"ע ב\"פ מחצית בשקל, שאומר מחצית השקל בשקל הקודש, וכופל עוד מחצית השקל תרומה לה'. גם מהו\"ע עשרים גרה השקל, שהרי צריך ליתן רק מחצית השקל. גם צלה\"ב מ\"ש לכפר על נפשותיכם, וכמו שממשיך ומבאר שם דענין מחצית השקל הוא לכפר על חטא העגל4, וצלה\"ב מהו מעלת מחצית השקל כ\"כ שמכפר על החטא. ויש להוסיף בזה (בתור הערה בדא\"פ), דחטא העגל הוא חטא כללי והוא המקור והשורש לכל החטאים ועונות ופשעים. וכדאיתא בגמרא5 דבשעת מ\"ת פסקה זוהמתן (שהטיל נחש בחוה), ואחרי חטא העגל חזרה6. והגם שלא חזרה לגמרי כמו שהיתה לפני זה7, שהרי גם אחרי חטא העגל נשאר ענין הבחירה בעם ישראל, ובנו בחרת8, בהגוף החומרי הנדמה בחומריותו לגופות אומות העולם9 (וראה בגמרא שם10 מפני מה עכו\"ם מזוהמים כו'), מ\"מ הרי חטא העגל הוא החטא הכללי, ועליו כתיב11 וביום פקדי (על כל חטא) ופקדתי וכו'. ולפי זה דרוש ביאור ביותר מהי מעלת מחצית השקל שמכפר על חטא זה. והנה מתרומה זו (דמחצית השקל) קנו את הקרבנות ציבור במשך כל השנה, דענין הקרבנות עתה הוא ענין התפלה, וכמרז\"ל12 תפלות במקום קרבנות תקנום, ומזה מובן, דענין מחצית השקל ישנו ג\"כ בעבודת התפלה.ב) ולהבין כ\"ז ממשיך לבאר בהמאמר13 ענין התפלה, ומביא ע\"ז מארז\"ל14 אין עומדין להתפלל אלא מתוך כובד ראש. ויש להוסיף בזה, ע\"פ מ\"ש בתוס' במס' מנחות15 שהלשון אין כו' אלא כו' בא למעט שפסול בדיעבד. וכן הוא פירוש הענין בפשטות, דאין עומדין להתפלל, היינו שאינו שייך ענין התפלה, אלא מתוך כובד ראש. ומביא ע\"ז את פירוש הרב המגיד נ\"ע16 שהתפלה תהי' על הכובד שבראש, דכאשר מתפלל על החסרון לא יתפלל על החסרון שלו כ\"א על החסרון שלמעלה, כי לא יש חסרון למטה שלא יש חסרון למעלה. ומבאר, דענין החסרון שלמעלה הוא כמרז\"ל17 בזמן שהאדם מצטער השכינה מה לשון אומרת כבי' קלני מראשי קלני מזרועי, דשכינה היא בחי' המלכות שיש בה עליות וירידות וכו'. וזהו\"ע הכובד ראש דשכינה, וזהו אין עומדין להתפלל אלא מתוך כובד ראש, היינו על הכובד והחסרון שבראש. ואח\"כ מביא את פירוש רבינו הזקן (וכ\"ה גם בד\"ה אין עומדין להתפלל לכ\"ק מו\"ח אדמו\"ר18) דראש קאי על נשמות ישראל. ישראל לי ראש, ובזה ישנו ענין הכובד ראש שע\"י העונות, וכמ\"ש19 כי עונותי עברו ראשי כמשא כבד יכבדו ממני.וזהו אין עומדין להתפלל אלא מתוך כובד ראש, וע\"י התפלה הנה לא זו בלבד שמבטל את הכובד ראש, אלא עוד זאת שנעשה שאו את ראש גו' בני ישראל גו' לגולגלותם20 (כמבואר בלקו\"ת ר\"פ במדבר), שמגבי' את ראש עד לבחי' גולגלותם, שלמעלה מהראש. והוא ע\"י העבודה בבירור נה\"ב, שעי\"ז מגבי' את הראש דנה\"א, כי שרש נה\"ב הוא מבחי' התוהו שקדם לתיקון, כי עשו הוא בנה הגדול21, והאורות מרובים דתוהו מעלים את האורות דתיקון.ג) וזהו ענין מחצית השקל, שהנתינה מלמטה היא רק מחצית22, וכתורת הה\"מ23 עשה לך שתי חצוצרות24, שתי חצאי צורות, שהקב\"ה וכנס\"י הם ב' חצאי צורות המשלימים זא\"ז כביכול, וכמרז\"ל25 תמתי תאומתי. היינו, שע\"י עבודתו בעשר הכחות שלו ה\"ה פועל עלי' גם למעלה. ובעבודתו גופא ענין מחצית השקל הוא, שמעלה את עשר הכחות דנה\"ב, ועי\"ז פועל עלי' בנה\"א, וכנ\"ל דהאורות מרובים דתוהו מעלים את האורות דתיקון.ויש לומר, דזהו גם הקישור26 דב' הפירושים בכובד ראש, ראש שלמעלה וראש דנשמה (נה\"א). כי כשם שע\"י בירור עשר כחות דנה\"ב, עשר גרה, מעלים את המחצית העליון, עשר כחות דנה\"א, עד\"ז הוא להפי' דקאי על ראש שלמעלה, כי ע\"י ש(הקב\"ה עוזרו ה\"ה) מעלה את עשר כחות נפשו, שהנשמה ירדה למטה, והרשות והיכולת נתונה לכל אדם27 וכו', ועי\"ז פועל עלי' כביכול גם בשכינה וכו'.ד) ובזה יובן מה שמסיים לכפר על נפשותיכם, שעי\"ז פועל תיקון של החטאים עד לחטא העגל. כי מכיון שע\"י הבירורים מתעלה למקום נעלה ביותר, בחי' התוהו שקדם אל התיקון, ולמעלה מזה, במקום שיעקב הוא הבכור (וכמשל השפופרת שהטיפה הנכנסת ראשונה תצא אחרונה28), עד למעלה מזה, במקום ששניהם שוים, הלא אח עשו ליעקב29, עד לבחי' אחדות הפשוטה, הרי פשוט הוא שמשם נמשך תיקון כל החסרונות והפגמים וכו'. וזהו ענין עשרים גרה הנ\"ל, דאיתא בספר הבהיר30 ע\"ס מלמטלמ\"ע לא ידענו מלמעלמ\"ט ידענו, כי ע\"י העבודה בבחי' ע\"ס מלמטלמ\"ע ממשיכים מבחי' לא ידענו, שלמעלה לגמרי מענין הידיעה וכו'.וזהו גם מה שזה הי' התיקון לחטא העגל, דחטא העגל הי' כאשר בושש משה לרדת גו'31, וארז\"ל32 א\"ת בושש אלא באו שש, שבאה שעה ששית, חצי היום, ולא בא, והתיקון לזה הוא ע\"י העבודה דמחצית השקל דוקא33.ה) והנה כשם שע\"י נתינת מחצית השקל הקריבו קרבנות בכל השנה, עד\"ז בעבודה, שצ\"ל העבודה הנ\"ל בכל השנה, ובאופן של שמחה וטוב לבב, מרוב כל, היינו דתמורת זה שהי' חוסר כל יהי' מרוב כל, ולמעלה מזה, שהרי יפה שעה אחת בתשובה ומעשים טובים בעוה\"ז מכל חיי העוה\"ב34. אלא שמפני טעם הידוע ליוצרם הרי עכשיו אין הענינים בגלוי, ובקרוב ממש יהי' ונגלה כבוד הוי' וראו כל בשר יחדיו גו'35. ויה\"ר שבקרוב נקיים מצות מחצית השקל בביהמ\"ק השלישי, נשמות בגופים ומתוך בריאות הנכונה ובהרחבה, והקיצו ורננו שוכני עפר36 ואהרן ומשה עמהם37, וקהל גדול ישובו הנה38, בקרוב ממש.",
+      "main_text_chunks": [
+        {
+          "chunk_id": "chunk_1",
+          "content": "בס\"ד ש\"פ משפטים, פ' שקלים, מבה\"ח וער\"ח אדר ה'תש\"מזה יתנו כל העובר על הפקודים מחצית השקל בשקל הקודש עשרים גרה השקל מחצית השקל תרומה לה' וגו'1 ומסיים2 לכפר על נפשותיכם ומדייק בהמאמר דש\"פ משפטים ופ' שקלים תר\"פ (פר\"ת)3, דצלה\"ב מהו\"ע ב\"פ מחצית בשקל, שאומר מחצית השקל בשקל הקודש, וכופל עוד מחצית השקל תרומה לה' גם מהו\"ע עשרים גרה השקל, שהרי צריך ליתן רק מחצית השקל גם צלה\"ב מ\"ש לכפר על נפשותיכם, וכמו שממשיך ומבאר שם דענין מחצית השקל הוא לכפר על חטא העגל4, וצלה\"ב מהו מעלת מחצית השקל כ\"כ שמכפר על החטא ויש להוסיף בזה (בתור הערה בדא\"פ), דחטא העגל הוא חטא כללי והוא המקור והשורש לכל החטאים ועונות ופשעים וכדאיתא בגמרא5 דבשעת מ\"ת פסקה זוהמתן (שהטיל נחש בחוה), ואחרי חטא העגל חזרה6 והגם שלא חזרה לגמרי כמו שהיתה לפני זה7, שהרי גם אחרי חטא העגל נשאר ענין הבחירה בעם ישראל, ובנו בחרת8, בהגוף החומרי הנדמה בחומריותו לגופות אומות העולם9 (וראה בגמרא שם10 מפני מה עכו\"ם מזוהמים כו'), מ\"מ הרי חטא העגל הוא החטא הכללי, ועליו כתיב11 וביום פקדי (על כל חטא) ופקדתי וכו' ולפי זה דרוש ביאור ביותר מהי מעלת מחצית השקל שמכפר על חטא זה והנה מתרומה זו (דמחצית השקל) קנו את הקרבנות ציבור במשך כל השנה, דענין הקרבנות עתה הוא ענין התפלה, וכמרז\"ל12 תפלות במקום קרבנות תקנום, ומזה מובן, דענין מחצית השקל ישנו ג\"כ בעבודת התפלה.ב) ולהבין כ\"ז ממשיך לבאר בהמאמר13 ענין התפלה, ומביא ע\"ז מארז\"ל14 אין עומדין להתפלל אלא מתוך כובד ראש ויש להוסיף בזה, ע\"פ מ\"ש בתוס' במס' מנחות15 שהלשון אין כו' אלא כו' בא למעט שפסול בדיעבד וכן הוא פירוש הענין בפשטות, דאין עומדין להתפלל, היינו שאינו שייך ענין התפלה, אלא מתוך כובד ראש",
+          "topics": [
+            "אור",
+            "עולם",
+            "ישראל",
+            "קרבנות",
+            "חטא"
+          ],
+          "word_count": 270
+        },
+        {
+          "chunk_id": "chunk_2",
+          "content": "ומביא ע\"ז את פירוש הרב המגיד נ\"ע16 שהתפלה תהי' על הכובד שבראש, דכאשר מתפלל על החסרון לא יתפלל על החסרון שלו כ\"א על החסרון שלמעלה, כי לא יש חסרון למטה שלא יש חסרון למעלה ומבאר, דענין החסרון שלמעלה הוא כמרז\"ל17 בזמן שהאדם מצטער השכינה מה לשון אומרת כבי' קלני מראשי קלני מזרועי, דשכינה היא בחי' המלכות שיש בה עליות וירידות וכו' וזהו\"ע הכובד ראש דשכינה, וזהו אין עומדין להתפלל אלא מתוך כובד ראש, היינו על הכובד והחסרון שבראש ואח\"כ מביא את פירוש רבינו הזקן (וכ\"ה גם בד\"ה אין עומדין להתפלל לכ\"ק מו\"ח אדמו\"ר18) דראש קאי על נשמות ישראל ישראל לי ראש, ובזה ישנו ענין הכובד ראש שע\"י העונות, וכמ\"ש19 כי עונותי עברו ראשי כמשא כבד יכבדו ממני.וזהו אין עומדין להתפלל אלא מתוך כובד ראש, וע\"י התפלה הנה לא זו בלבד שמבטל את הכובד ראש, אלא עוד זאת שנעשה שאו את ראש גו' בני ישראל גו' לגולגלותם20 (כמבואר בלקו\"ת ר\"פ במדבר), שמגבי' את ראש עד לבחי' גולגלותם, שלמעלה מהראש והוא ע\"י העבודה בבירור נה\"ב, שעי\"ז מגבי' את הראש דנה\"א, כי שרש נה\"ב הוא מבחי' התוהו שקדם לתיקון, כי עשו הוא בנה הגדול21, והאורות מרובים דתוהו מעלים את האורות דתיקון.ג) וזהו ענין מחצית השקל, שהנתינה מלמטה היא רק מחצית22, וכתורת הה\"מ23 עשה לך שתי חצוצרות24, שתי חצאי צורות, שהקב\"ה וכנס\"י הם ב' חצאי צורות המשלימים זא\"ז כביכול, וכמרז\"ל25 תמתי תאומתי היינו, שע\"י עבודתו בעשר הכחות שלו ה\"ה פועל עלי' גם למעלה ובעבודתו גופא ענין מחצית השקל הוא, שמעלה את עשר הכחות דנה\"ב, ועי\"ז פועל עלי' בנה\"א, וכנ\"ל דהאורות מרובים דתוהו מעלים את האורות דתיקון.ויש לומר, דזהו גם הקישור26 דב' הפירושים בכובד ראש, ראש שלמעלה וראש דנשמה (נה\"א)",
+          "topics": [
+            "שכינה",
+            "אור",
+            "מלכות",
+            "ישראל",
+            "גלות"
+          ],
+          "word_count": 265
+        },
+        {
+          "chunk_id": "chunk_3",
+          "content": "כי כשם שע\"י בירור עשר כחות דנה\"ב, עשר גרה, מעלים את המחצית העליון, עשר כחות דנה\"א, עד\"ז הוא להפי' דקאי על ראש שלמעלה, כי ע\"י ש(הקב\"ה עוזרו ה\"ה) מעלה את עשר כחות נפשו, שהנשמה ירדה למטה, והרשות והיכולת נתונה לכל אדם27 וכו', ועי\"ז פועל עלי' כביכול גם בשכינה וכו'.ד) ובזה יובן מה שמסיים לכפר על נפשותיכם, שעי\"ז פועל תיקון של החטאים עד לחטא העגל כי מכיון שע\"י הבירורים מתעלה למקום נעלה ביותר, בחי' התוהו שקדם אל התיקון, ולמעלה מזה, במקום שיעקב הוא הבכור (וכמשל השפופרת שהטיפה הנכנסת ראשונה תצא אחרונה28), עד למעלה מזה, במקום ששניהם שוים, הלא אח עשו ליעקב29, עד לבחי' אחדות הפשוטה, הרי פשוט הוא שמשם נמשך תיקון כל החסרונות והפגמים וכו' וזהו ענין עשרים גרה הנ\"ל, דאיתא בספר הבהיר30 ע\"ס מלמטלמ\"ע לא ידענו מלמעלמ\"ט ידענו, כי ע\"י העבודה בבחי' ע\"ס מלמטלמ\"ע ממשיכים מבחי' לא ידענו, שלמעלה לגמרי מענין הידיעה וכו'.וזהו גם מה שזה הי' התיקון לחטא העגל, דחטא העגל הי' כאשר בושש משה לרדת גו'31, וארז\"ל32 א\"ת בושש אלא באו שש, שבאה שעה ששית, חצי היום, ולא בא, והתיקון לזה הוא ע\"י העבודה דמחצית השקל דוקא33.ה) והנה כשם שע\"י נתינת מחצית השקל הקריבו קרבנות בכל השנה, עד\"ז בעבודה, שצ\"ל העבודה הנ\"ל בכל השנה, ובאופן של שמחה וטוב לבב, מרוב כל, היינו דתמורת זה שהי' חוסר כל יהי' מרוב כל, ולמעלה מזה, שהרי יפה שעה אחת בתשובה ומעשים טובים בעוה\"ז מכל חיי העוה\"ב34 אלא שמפני טעם הידוע ליוצרם הרי עכשיו אין הענינים בגלוי, ובקרוב ממש יהי' ונגלה כבוד הוי' וראו כל בשר יחדיו גו'35",
+          "topics": [
+            "שכינה",
+            "יעקב",
+            "משה",
+            "קרבנות",
+            "עבודה"
+          ],
+          "word_count": 246
+        },
+        {
+          "chunk_id": "chunk_4",
+          "content": "ויה\"ר שבקרוב נקיים מצות מחצית השקל בביהמ\"ק השלישי, נשמות בגופים ומתוך בריאות הנכונה ובהרחבה, והקיצו ורננו שוכני עפר36 ואהרן ומשה עמהם37, וקהל גדול ישובו הנה38, בקרוב ממש",
+          "topics": [
+            "משה",
+            "אהרן"
+          ],
+          "word_count": 27
+        }
+      ],
+      "footnotes": "* ) יצא לאור בשעתו, \"ז' אדר, ה'תש\"מ\".1) תשא ל, יג.2) שם, טז.3) ד\"ה כי תשא גו' זה יתנו (סה\"מ פר\"ת ע' רסג ואילך).4) שקלים פ\"ב ה\"ג. תנחומא תשא י.5) שבת קמו, א. ע\"ז כב, ב.6) זח\"א נב, ב. קכו, ב. ח\"ב קצג, ב. ועוד. וראה גם תניא פל\"ו.7) נצוצי אורות (להחיד\"א) לזח\"ג יד, ב.8) ראה שו\"ע אדה\"ז או\"ח ס\"ס ס\"ד: כשיאמר ובנו בחרת יזכור מתן תורה.9) תניא פמ\"ט (סט, סע\"ב ואילך).10) שבת קמה, ב.11) תשא לב, לד ובפרש\"י. מסנהדרין קב, סע\"א.12) ראה ברכות כו, ב.13) וראה גם אוה\"ת תשא ע' א'תתלד ואילך.14) ברכות ל, ב.15) פג, ב – ד\"ה מתני'.16) או\"ת (הוצאת קה\"ת) קח, ג.17) חגיגה טו, ב. סנהדרין מו, א במשנה.18) נדפס בסה\"מ תש\"ב ע' 89 ואילך.19) תהלים לח, ה.20) במדבר א, ב.21) תולדות כז, טו. וראה תו\"א בשלח סא, ב. ובכ\"מ.22) ראה סד\"ה זה יתנו וסד\"ה כי תשא תרע\"ה (המשך תער\"ב ח\"ב ע' תתעד. תתקא).23) או\"ת מה, ד ואילך. הובאה ונתבארה באוה\"ת לתהלים צח, ו (ע' שנז ואילך). ובארוכה – המשך תער\"ב פשפ\"ד ואילך (שם ע' תשצ ואילך). ובנדו\"ד – באוה\"ת תשא ריש ע' א'תתקח. תהלים שם.24) בהעלותך י, ב.25) שהש\"ר פ\"ה, ב.26) וראה אוה\"ת תשא ע' א'תתלה, ובסה\"מ פר\"ת שם ע' רסז – הקישור באופן אחר.27) ראה רמב\"ם הל' תשובה רפ\"ה.28) פרש\"י עה\"פ תולדות כה, כו. מב\"ר פס\"ג, ח.29) מלאכי א, ב.30) סקע\"א. הובא בפרדס שט\"ו רפ\"ד. לקו\"ת חוקת סג, ג.31) תשא לב, א.32) שבת פט, א. הובא בפרש\"י עה\"פ.33) ראה אוה\"ת שם ע' א'תתקכט. ועוד.34) אבות פ\"ד מי\"ז.35) ישעי' מ, ה.36) שם כו, יט.37) יומא ה, ב. וראה גם תוד\"ה אחד – פסחים קיד, ב.38) ירמי' לא, ז.",
+      "glossary": "|אבות (Avot): Tractate Avot; אדר (Adar): Hebrew month of Adar; אהרן ומשה עמהם (Aharon UMoshe Imahem): Aaron and Moses with them; או\"ח (Orach Chaim): Orach Chaim section; או\"ת (Or Torah): Or Torah; אוה\"ת (Or HaTorah): Or HaTorah; אורות מרובים (Orot Merubim): Great lights; אחדות הפשוטה (Achdut HaPeshutah): Simple unity; אין עומדין להתפלל אלא מתוך כובד ראש (Ein Omdin Lehitpalel Ela MiToch Koved Rosh): One only stands to pray from a heavy head; באו שש (Ba'u Shesh): The sixth came; בגלוי (BeGilui): In revelation; בהעלותך (Beha'alotcha): Torah portion Beha'alotcha; בושש משה לרדת (Boshesh Moshe Laredet): Moses delayed to descend; בזמן שהאדם מצטער השכינה מה לשון אומרת (BiZman SheHaAdam Mitzta'er HaShechinah Mah Lashon Omeret): When a person suffers what does the Shechinah say; בחירה (Bechira): Free choice; ביהמ\"ק השלישי (Beit HaMikdash HaShlishi): Third Temple; בירור (Birur): Refinement; במדבר (Bamidbar): Torah portion Bamidbar; בנה הגדול (Bno HaGadol): His elder son; בנו בחרת (Banu Vacharta): You have chosen us; בני ישראל (Bnei Yisrael): Children of Israel; בס\"ד (Besiyata Dishmaya): With Divine assistance; בריאות הנכונה (Briut HaNechonah): Proper health; ברכות (Berachot): Tractate Berachot; בשלח (Beshalach): Torah portion Beshalach; בשקל הקודש (BeShekel HaKodesh): In the holy shekel; גופות אומות העולם (Gufot Umot HaOlam): Bodies of the nations of the world; ה\"מ (Halacha): Law; ה'תש\"מ (5740): Hebrew year 5740; החיד\"א (HaChida): Rabbi Chaim Yosef David Azulai; הטיפה (HaTipah): The drop; הל' תשובה (Hilchot Teshuvah): Laws of Repentance; הלא אח עשו ליעקב (Halo Ach Esav LeYaakov): Is not Esau a brother to Jacob; המאמר (HaMaamar): The discourse; המשך (Hemshech): Continuation; הקב\"ה (HaKadosh Baruch Hu): The Holy One Blessed be He; הקיצו ורננו שוכני עפר (Hakitzu VeRanenu Shochnei Afar): Awake and sing dwellers of dust; הרב המגיד (HaRav HaMagid): The Maggid (teacher); הרחבה (Harchavah): Expansion; הרשות והיכולת נתונה לכל אדם (HaReshut VeHaYecholet Netunah LeChol Adam): Permission and ability are given to every person; השפופרת (HaShfoferet): The tube; וביום פקדי (UvYom Pokdi): And on the day I remember; ונגלה כבוד הוי' וראו כל בשר יחדיו (VeNigla Kevod Hashem VeRa'u Chol Basar Yachdav): The glory of God will be revealed and all flesh will see together; וער\"ח (Ve'Erev Rosh Chodesh): And eve of the new month; זה יתנו (Zeh Yitnu): This they shall give; זוהמתן (Zuhamtan): Their contamination; זח\"א (Zohar Aleph): Zohar volume 1; זח\"ג (Zohar Gimel): Zohar volume 3; ח\"ב (Chelek Bet): Part 2; חגיגה (Chagigah): Tractate Chagigah; חוה (Chavah): Eve; חוסר כל (Choser Kol): Lack of everything; חטא העגל (Chet HaEgel): Sin of the golden calf; חסרון (Chesaron): Deficiency; חסרונות והפגמים (Chesronot VeHaPegamim): Deficiencies and flaws; חצי היום (Chatzi HaYom): Half the day; טעם הידוע ליוצרם (Ta'am HaYadua LeYotzram): Reason known to their Creator; ידיעה (Yedi'ah): Knowledge; ידענו (Yadanu): We know; יה\"ר (Yehi Ratzon): May it be the will; יומא (Yoma): Tractate Yoma; יעקב הוא הבכור (Yaakov Hu HaBechor): Jacob is the firstborn; יפה שעה אחת בתשובה ומעשים טובים בעוה\"ז מכל חיי העוה\"ב (Yafah Sha'ah Achat BiTeshuvah UveMa'asim Tovim BeOlam HaZeh MiKol Chayei HaOlam HaBa): Better one hour of repentance and good deeds in this world than all life in the world to come; ירמי' (Yirmiyahu): Jeremiah; ישעי' (Yeshayahu): Isaiah; ישראל לי ראש (Yisrael Li Rosh): Israel is a head to Me; כ\"ק מו\"ח אדמו\"ר (Kevod Kedushat Mori VeChamai Admor): His holy honor my teacher and father-in-law the Rebbe; כי עונותי עברו ראשי כמשא כבד יכבדו ממני (Ki Avonotai Avru Roshi KeMasa Kaved Yichbedu Mimeni): For my sins have passed over my head like a heavy burden; כל העובר על הפקודים (Kol Ha'over Al HaPekudim): All who pass through the census; כנס\"י (Knesset Yisrael): Assembly of Israel; לא ידענו (Lo Yadanu): We do not know; לגולגלותם (LeGulgalotam): According to their skulls; לכפר על נפשותיכם (Lechaper Al Nafshoteichem): To atone for your souls; לקו\"ת (Likutei Torah): Likutei Torah; לקו\"ת חוקת (Likutei Torah Chukat): Likutei Torah on Chukat; מב\"ר (Midrash Rabbah): Midrash Rabbah; מבה\"ח (Mevorach HaChodesh): Blessing of the new month; מהו\"ע (Mahu Inyan): What is the matter of; מחצית השקל (Machatzit HaShekel): Half shekel; מי\"ז (Mishna Yud Zayin): Mishna 17; מלאכי (Malachi): Prophet Malachi; מלכות (Malchut): Kingship; מלמעלמ\"ט (MiLema'alah LeMata): From above to below; מס' מנחות (Masechet Menachot): Tractate Menachot; מרוב כל (MeRov Kol): From abundance of all; משפטים (Mishpatim): Torah portion Mishpatim; מתן תורה (Matan Torah): Giving of the Torah; נ\"ע (Nuach Eden): May he rest in Eden; נה\"א (Nefesh Ruach Neshamah Chayah Yechidah): Five soul levels; נה\"ב (Nefesh Ruach Neshamah): Soul levels; נחש (Nachash): Snake; נצוצי אורות (Nitzutzei Orot): Sparks of Light; נשמות בגופים (Neshamot BeGufim): Souls in bodies; נשמות ישראל (Nishmat Yisrael): Souls of Israel; ס\"ס (Siman): Section; סה\"מ (Sefer HaMaamarim): Book of Discourses; סנהדרין (Sanhedrin): Tractate Sanhedrin; ספר הבהיר (Sefer HaBahir): Book of Bahir; ע\"ז (Avodah Zarah): Tractate Avodah Zarah; ע\"ס מלמטלמ\"ע (Alma DeShetika MiLematah LeMa'alah): Silent world from below to above; עבודת התפלה (Avodat HaTefilah): Service of prayer; עונות (Avonot): Sins; עכו\"ם (Akum): Non-Jews; עליות וירידות (Aliyot ViYeridot): Ascents and descents; עם ישראל (Am Yisrael): People of Israel; עשה לך שתי חצוצרות (Aseh Lecha Shtei Chatzotzrot): Make for yourself two trumpets; עשו (Esav): Esau; עשר הכחות (Eser HaKochot): Ten powers; עשרים גרה השקל (Esrim Gerah HaShekel): Twenty gerah is the shekel; פ\"ד (Perek Dalet): Chapter 4; פ' שקלים (Parshat Shekalim): Special Torah reading of Shekalim; פל\"ו (Perek Lamed Vav): Chapter 36; פמ\"ט (Perek Mem Tet): Chapter 49; פס\"ג (Perek Gimel): Chapter 3; פסחים (Pesachim): Tractate Pesachim; פר\"ת (Parshat): Torah portion; פרדס (Pardes): Pardes; פרש\"י (Rashi): Rashi commentary; צלה\"ב (Tzarich Lehaven): Requires understanding; קה\"ת (Kehot): Kehot publishing; קהל גדול ישובו הנה (Kahal Gadol Yashuvu Henah): A great congregation will return here; קישור (Kishur): Connection; קלני מראשי קלני מזרועי (Kalani MeRoshi Kalani MiZroi): My head is light, my arm is light; קרבנות ציבור (Korbanot Tzibur): Communal sacrifices; ר\"פ במדבר (Rosh Perek BaMidbar): Beginning of Torah portion Bamidbar; ראש (Rosh): Head; רבינו הזקן (Rabbeinu HaZaken): The Alter Rebbe; רמב\"ם (Rambam): Maimonides; רפ\"ד (Perek Dalet): Chapter 4; רפ\"ה (Perek Hey): Chapter 5; ש\"פ (Shabbat Parshat): Shabbat of Torah portion; שאו את ראש (Se'u Et Rosh): Lift up the head; שבת (Shabbat): Tractate Shabbat; שהש\"ר (Shir HaShirim Rabbah): Song of Songs Rabbah; שו\"ע אדה\"ז (Shulchan Aruch Admur HaZaken): Code of Law by the Alter Rebbe; שט\"ו (Sha'ar Tu): Gate 15; שכינה (Shechinah): Divine presence; שמחה וטוב לבב (Simchah VeTuv Levav): Joy and good heart; שעה ששית (Sha'ah Shishit): Sixth hour; שקלים (Shekalim): Tractate Shekalim; שתי חצאי צורות (Shtei Chatzei Tzurot): Two half forms; תהלים (Tehilim): Psalms; תו\"א (Torah Or): Torah Or; תוד\"ה (Tosafot Dibbur Hamatchil): Tosafot beginning with; תוהו (Tohu): Chaos; תולדות (Toldot): Torah portion Toldot; תוס' (Tosafot): Tosafot commentary; תיקון (Tikun): Rectification; תיקון של החטאים (Tikun Shel HaChatayim): Rectification of sins; תמתי תאומתי (Tamati Te'omati): My perfect one, my twin; תנחומא (Tanchuma): Midrash Tanchuma; תניא (Tanya): Tanya; תער\"ב (Ta'arav): Hebrew year acronym; תפלה (Tefilah): Prayer; תפלות במקום קרבנות תקנום (Tefilot BiMkom Korbanot Tiknum): Prayers were instituted in place of sacrifices; תר\"פ (Tarpat): Hebrew year 5680; תרומה לה' (Terumah LaHashem): Offering to God; תשא (Tisa): Torah portion Tisa;"
+    },
+    "search_tags": [
+      "עבודה",
+      "חטא",
+      "Sacrifices",
+      "רבי",
+      "שכינה",
+      "World",
+      "מלכות",
+      "Shechinah/Divine Presence",
+      "Jacob",
+      "Torah",
+      "Moses",
+      "Sin",
+      "קרבנות",
+      "אהרן",
+      "יעקב",
+      "Exile",
+      "Israel",
+      "ישראל",
+      "תורה",
+      "Kingship",
+      "Rabbi",
+      "Light",
+      "גלות",
+      "תשובה",
+      "אור",
+      "Aaron",
+      "תיקון",
+      "Service",
+      "משה",
+      "Rectification",
+      "Repentance",
+      "עולם"
+    ]
+  }
+}

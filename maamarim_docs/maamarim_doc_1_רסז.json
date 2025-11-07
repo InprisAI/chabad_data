@@ -1,0 +1,188 @@
+{
+  "collection_metadata": {
+    "title": "Maamarim Collection - Chassidic Discourses",
+    "description": "Collection of Chassidic discourses (Maamarim) with Hebrew text, footnotes, and glossary. Optimized for LLM search.",
+    "total_documents": 195,
+    "languages": [
+      "Hebrew",
+      "Aramaic",
+      "Yiddish",
+      "English"
+    ],
+    "date_range": "1941-1968",
+    "structure_note": "Each document contains main text divided into searchable chunks, footnotes, and glossary sections",
+    "conversion_date": "2025-11-07T13:33:30.946772",
+    "original_file": "maamarim.txt"
+  },
+  "document": {
+    "id": "1_רסז",
+    "reference": "Reference: 1_רסז",
+    "metadata": {
+      "hebrew_date": "",
+      "gregorian_date": "",
+      "author": "כ\"ק מו\"ח אדמו\"ר",
+      "opening_phrase": "",
+      "topics": [
+        "אור",
+        "אוא\"ס",
+        "עצמות",
+        "גילוי",
+        "העלם",
+        "צמצום",
+        "בריאה",
+        "עולם",
+        "עולמות",
+        "מלכות",
+        "יסוד",
+        "יצחק",
+        "יעקב",
+        "ישראל",
+        "מצוות",
+        "תורה",
+        "עבודה",
+        "המשכה",
+        "דירה",
+        "תכלית",
+        "כוונה",
+        "העלמות",
+        "נשיא"
+      ],
+      "key_concepts": [
+        "Light",
+        "Infinite Light",
+        "Essence",
+        "Revelation",
+        "Concealment",
+        "Contraction",
+        "Creation",
+        "World",
+        "Worlds",
+        "Kingship",
+        "Foundation",
+        "Isaac",
+        "Jacob",
+        "Israel",
+        "Commandments",
+        "Torah",
+        "Service",
+        "Drawing down",
+        "Dwelling",
+        "Purpose",
+        "Intention",
+        "Concealments",
+        "Leader"
+      ],
+      "biblical_references": [
+        "בראשית ב, טו",
+        "תהלים קיא, ו",
+        "ישעי' מד, ב",
+        "ישעי' סו, כב"
+      ],
+      "talmudic_references": [],
+      "chassidic_references": [
+        "לקו\"ת",
+        "לקו\"ת",
+        "לקו\"ת",
+        "לקו\"ת",
+        "לקו\"ת",
+        "לקו\"ת",
+        "לקו\"ת",
+        "לקו\"ת"
+      ],
+      "document_type": "מאמר",
+      "word_count": 751,
+      "chunk_count": 3
+    },
+    "content": {
+      "main_text": "בס\"ד. מוצאי שבת בראשית – בחדרו – ה'תשל\"ח בראשית ברא אלקים את השמים ואת הארץ, וארז\"ל1 אמר ר' יצחק לא הי' צריך להתחיל את התורה אלא מהחודש הזה לכם כו', ומה טעם פתח בבראשית משום כח מעשיו הגיד לעמו לתת להם נחלת גוים2, שאם יאמרו אומות העולם לישראל לסטים אתם שכבשתם ארצות שבעה גוים הם אומרים להם כל הארץ של הקב\"ה היא הוא בראה ונתנה לאשר ישר בעיניו ברצונו נתנה להם וברצונו נטלה מהם ונתנה לנו. ומבואר בזה בדרושי רבותינו נשיאינו3, דזה מה שהי' צריך להתחיל את התורה מהחודש הזה לכם הוא, כי ענין \"החודש הזה\" הוא יחוד סובב וממלא. כי חודש הוא בחינת מלכות, חודש אשתו4, בחינת ממכ\"ע, ו\"זה\" הוא ענין גילוי [כמרז\"ל5 מראה באצבעו ואומר זה], יסוד וז\"א, יחוד סוכ\"ע וממכ\"ע. ופירוש \"החודש הזה (לכם)\" הוא שבבחי' ממכ\"ע (חודש) יהי' בו גילוי סוכ\"ע (הזה). והי' צריך להתחיל את התורה מהחודש הזה לכם, כי תכלית התורה ומצוותי' הו\"ע יחוד סובב וממלא.ב) והנה ענין המשכת הסובב שע\"י תורה ומצוות בשרשו הראשון הוא המשכת אוא\"ס שלפני הצמצום. וכדאיתא בעמק המלך בתחלתו6, דבריאת העולמות הי' ע\"י צמצום הראשון שהי' באוא\"ס ונשאר חלל ומקום פנוי, ומזה הוא שרש התהוות הכלים ומציאות העולמות (ענין מעשה בראשית). ומ\"ש7 ויניחהו בג\"ע לעבדה ולשמרה [שקאי על העבודה דתומ\"צ, לעבדה זה רמ\"ח מ\"ע ולשמרה זה שס\"ה מל\"ת8] הוא להמשיך תוספות אורות ע\"י הקו מאוא\"ס שלפני הצמצום, עד שלעתיד יהי' גילוי אוא\"ס במקום החלל כמו שהי' קודם הצמצום. וזהו לא הי' צריך להתחיל את התורה אלא מהחודש הזה לכם כו', כי סיפור מע\"ב הכל הוא אחר הצמצום, ומכיון שענינה של התורה הוא המשכת אוא\"ס שלמעלה מהצמצום, הוצרך להתחיל את התורה (לא במע\"ב, כ\"א) מהחודש הזה שהו\"ע המשכת בחי' הסובב (\"הזה\"), שבשרשו הוא המשכת אוא\"ס שלפני הצמצום.ג) ומה טעם פתח בבראשית משום כח מעשיו הגיד לעמו לתת להם נחלת גוים. והיינו שהענין דכח מעשיו גו' לתת להם נחלת גוים הוא נעלה יותר גם מענין המשכת הסובב, בחי' אוא\"ס שלפני הצמצום. דהנה תכלית הכוונה (דתומ\"צ) הוא להמשיך בחי' אור חדש, היינו בחי' עצמות אוא\"ס שלמעלה מהאור שהי' ממלא מקום החלל9. והמשכת אור זה הוא דוקא ע\"י עבודת הבירורים10. וזהו היתרון שבכח מעשיו גו' לתת להם נחלת גוים על החודש הזה, כי ענין החודש הזה הוא המשכת אור הסובב, שבשרשו הוא בחי' האור שהי' ממלא מקום החלל, וע\"י11 עבודת הבירורים דעניני העולם שנפלו מז\"מ, מלכי אדום שברצונו נתנה להם – כמרז\"ל12 בונה עולמות ומחריבן – ובנ\"י מבררים ויורשים13 אותם ונעשו נחלת יעקב, ממשיכים בחי' אור חדש שלמעלה מהאור שהי' ממלא מקום החלל. וכמו שהוא בכלל העולם (עולמות בי\"ע, דמשם יפרד) בא ג\"כ בפרט הבירור דכיבוש ארצות שבעה גוים, שישראל מהפכים אותם לארץ ישראל.ד) והנה מכיון דזה ש\"ברצונו נתנה להם\" (לזמן מסויים) הוא בכדי שיהי' אח\"כ \"ברצונו נטלה מהם ונתנה לנו\", הרי פשוט, שבאם מחליטים בתוקף, אזי מבררים בנקל ביותר את ארצות שבעה גוים, וכל העולם כולו, שיהי' דירה לו ית'. וזה מה שנדמה שצריך לזה יגיעה ועמל, ועד שאומות העולם טוענים בנוגע לכל בירור14 לסטים אתם הוא מצד גודל ההעלם והסתר, מה שאין נרגש בעולם אשר \"כל הארץ של הקב\"ה היא\" (ו\"כי15 ממך הכל\"16). אבל הרי תכלית הכוונה של ההעלם והסתר הוא בכדי שיהי' ובקשתם משם17, אַז אידן זאָלן זוכן און געפינען דעם אויבערשטן בכל עניני העולם, בההעלמות וההסתרים18 [וכמשל האב המסתיר את עצמו מבנו הקטן בכדי להראות את חכמת הבן שמבין שההסתר וההעלם אינו אלא בכדי שיבקשנו וימצאנו19], והבטיחה תורה שכאשר ובקשתם משם אז בודאי \"ומצאת\"20, שכובשים את כל העולם ועושים ממנו דירה לו ית', עד אשר אז אהפוך אל עמים שפה ברורה וגו' לעבדו שכם אחד21. והיתה לה' המלוכה22.ה) ויש לקשר זה גם עם ענין ד\"ויעקב הלך לדרכו\" (שבמוצאי שבת בראשית23), דהגם שהולך לדרכו (גם) בעניני הרשות ובעובדין דחול במשך כל השנה, מ\"מ אינו יירא מזה, כי אם, הולך לבטח דרכו, ובשמחה ובטוב לבב. וזהו גם מה שבמוצאי שבת [ובפרט במוצאי שבת בראשית, שאז מתחיל (בעיקר) הסדר דויעקב הלך לדרכו22] אומרים24 אל תירא עבדי יעקב25, כי \"במוצאי שבת מסתלקת הנשמה יתירה וצריך לחזור ולירד בבחי' יעקב עבדי בכל ששת ימי המעשה לברר בירורים בבי\"ע כו' לכך אומר אל תירא עבדי יעקב כו' מלירד שם, ובזה נותנים כח ועוז כו'\"26. והטעם לזה (לענין אל תירא) הוא כי הוי' אלקיו עמו27, שכאו\"א מישראל (גם מי שהוא בבחי' יעקב), בכל מקום ובכל זמן ובכל ענין (גם בחו\"ל ובימי החול ובעובדין דחול), הוי' אלקיו (הוא) עמו, ועד שנעשה שותף להקב\"ה במעשה בראשית28, שהוא פועל חידוש בהבריאה (כמו הקב\"ה כביכול). כי ע\"י עבודתו בעבודת הבירורים לעשות את העולם דירה לו ית', הוא פועל חידוש בהבריאה [דזהו גם מה שבשבת בראשית קורין בתורה בראשית ברא אלקים את השמים ואת הארץ, שעי\"ז נעשה בריאת השמים והארץ וכל צבאיהם מחדש ובאופן חדש], ועד שיהי' השמים החדשים והארץ החדשה גו'29.",
+      "main_text_chunks": [
+        {
+          "chunk_id": "chunk_1",
+          "content": "בס\"ד מוצאי שבת בראשית – בחדרו – ה'תשל\"ח בראשית ברא אלקים את השמים ואת הארץ, וארז\"ל1 אמר ר' יצחק לא הי' צריך להתחיל את התורה אלא מהחודש הזה לכם כו', ומה טעם פתח בבראשית משום כח מעשיו הגיד לעמו לתת להם נחלת גוים2, שאם יאמרו אומות העולם לישראל לסטים אתם שכבשתם ארצות שבעה גוים הם אומרים להם כל הארץ של הקב\"ה היא הוא בראה ונתנה לאשר ישר בעיניו ברצונו נתנה להם וברצונו נטלה מהם ונתנה לנו ומבואר בזה בדרושי רבותינו נשיאינו3, דזה מה שהי' צריך להתחיל את התורה מהחודש הזה לכם הוא, כי ענין \"החודש הזה\" הוא יחוד סובב וממלא כי חודש הוא בחינת מלכות, חודש אשתו4, בחינת ממכ\"ע, ו\"זה\" הוא ענין גילוי [כמרז\"ל5 מראה באצבעו ואומר זה], יסוד וז\"א, יחוד סוכ\"ע וממכ\"ע ופירוש \"החודש הזה (לכם)\" הוא שבבחי' ממכ\"ע (חודש) יהי' בו גילוי סוכ\"ע (הזה) והי' צריך להתחיל את התורה מהחודש הזה לכם, כי תכלית התורה ומצוותי' הו\"ע יחוד סובב וממלא.ב) והנה ענין המשכת הסובב שע\"י תורה ומצוות בשרשו הראשון הוא המשכת אוא\"ס שלפני הצמצום וכדאיתא בעמק המלך בתחלתו6, דבריאת העולמות הי' ע\"י צמצום הראשון שהי' באוא\"ס ונשאר חלל ומקום פנוי, ומזה הוא שרש התהוות הכלים ומציאות העולמות (ענין מעשה בראשית) ומ\"ש7 ויניחהו בג\"ע לעבדה ולשמרה [שקאי על העבודה דתומ\"צ, לעבדה זה רמ\"ח מ\"ע ולשמרה זה שס\"ה מל\"ת8] הוא להמשיך תוספות אורות ע\"י הקו מאוא\"ס שלפני הצמצום, עד שלעתיד יהי' גילוי אוא\"ס במקום החלל כמו שהי' קודם הצמצום",
+          "topics": [
+            "אור",
+            "אוא\"ס",
+            "גילוי",
+            "צמצום",
+            "עולם"
+          ],
+          "word_count": 229
+        },
+        {
+          "chunk_id": "chunk_2",
+          "content": "וזהו לא הי' צריך להתחיל את התורה אלא מהחודש הזה לכם כו', כי סיפור מע\"ב הכל הוא אחר הצמצום, ומכיון שענינה של התורה הוא המשכת אוא\"ס שלמעלה מהצמצום, הוצרך להתחיל את התורה (לא במע\"ב, כ\"א) מהחודש הזה שהו\"ע המשכת בחי' הסובב (\"הזה\"), שבשרשו הוא המשכת אוא\"ס שלפני הצמצום.ג) ומה טעם פתח בבראשית משום כח מעשיו הגיד לעמו לתת להם נחלת גוים והיינו שהענין דכח מעשיו גו' לתת להם נחלת גוים הוא נעלה יותר גם מענין המשכת הסובב, בחי' אוא\"ס שלפני הצמצום דהנה תכלית הכוונה (דתומ\"צ) הוא להמשיך בחי' אור חדש, היינו בחי' עצמות אוא\"ס שלמעלה מהאור שהי' ממלא מקום החלל9 והמשכת אור זה הוא דוקא ע\"י עבודת הבירורים10 וזהו היתרון שבכח מעשיו גו' לתת להם נחלת גוים על החודש הזה, כי ענין החודש הזה הוא המשכת אור הסובב, שבשרשו הוא בחי' האור שהי' ממלא מקום החלל, וע\"י11 עבודת הבירורים דעניני העולם שנפלו מז\"מ, מלכי אדום שברצונו נתנה להם – כמרז\"ל12 בונה עולמות ומחריבן – ובנ\"י מבררים ויורשים13 אותם ונעשו נחלת יעקב, ממשיכים בחי' אור חדש שלמעלה מהאור שהי' ממלא מקום החלל וכמו שהוא בכלל העולם (עולמות בי\"ע, דמשם יפרד) בא ג\"כ בפרט הבירור דכיבוש ארצות שבעה גוים, שישראל מהפכים אותם לארץ ישראל.ד) והנה מכיון דזה ש\"ברצונו נתנה להם\" (לזמן מסויים) הוא בכדי שיהי' אח\"כ \"ברצונו נטלה מהם ונתנה לנו\", הרי פשוט, שבאם מחליטים בתוקף, אזי מבררים בנקל ביותר את ארצות שבעה גוים, וכל העולם כולו, שיהי' דירה לו ית' וזה מה שנדמה שצריך לזה יגיעה ועמל, ועד שאומות העולם טוענים בנוגע לכל בירור14 לסטים אתם הוא מצד גודל ההעלם והסתר, מה שאין נרגש בעולם אשר \"כל הארץ של הקב\"ה היא\" (ו\"כי15 ממך הכל\"16)",
+          "topics": [
+            "אור",
+            "אוא\"ס",
+            "עצמות",
+            "העלם",
+            "צמצום"
+          ],
+          "word_count": 263
+        },
+        {
+          "chunk_id": "chunk_3",
+          "content": "אבל הרי תכלית הכוונה של ההעלם והסתר הוא בכדי שיהי' ובקשתם משם17, אַז אידן זאָלן זוכן און געפינען דעם אויבערשטן בכל עניני העולם, בההעלמות וההסתרים18 [וכמשל האב המסתיר את עצמו מבנו הקטן בכדי להראות את חכמת הבן שמבין שההסתר וההעלם אינו אלא בכדי שיבקשנו וימצאנו19], והבטיחה תורה שכאשר ובקשתם משם אז בודאי \"ומצאת\"20, שכובשים את כל העולם ועושים ממנו דירה לו ית', עד אשר אז אהפוך אל עמים שפה ברורה וגו' לעבדו שכם אחד21 והיתה לה' המלוכה22.ה) ויש לקשר זה גם עם ענין ד\"ויעקב הלך לדרכו\" (שבמוצאי שבת בראשית23), דהגם שהולך לדרכו (גם) בעניני הרשות ובעובדין דחול במשך כל השנה, מ\"מ אינו יירא מזה, כי אם, הולך לבטח דרכו, ובשמחה ובטוב לבב וזהו גם מה שבמוצאי שבת [ובפרט במוצאי שבת בראשית, שאז מתחיל (בעיקר) הסדר דויעקב הלך לדרכו22] אומרים24 אל תירא עבדי יעקב25, כי \"במוצאי שבת מסתלקת הנשמה יתירה וצריך לחזור ולירד בבחי' יעקב עבדי בכל ששת ימי המעשה לברר בירורים בבי\"ע כו' לכך אומר אל תירא עבדי יעקב כו' מלירד שם, ובזה נותנים כח ועוז כו'\"26 והטעם לזה (לענין אל תירא) הוא כי הוי' אלקיו עמו27, שכאו\"א מישראל (גם מי שהוא בבחי' יעקב), בכל מקום ובכל זמן ובכל ענין (גם בחו\"ל ובימי החול ובעובדין דחול), הוי' אלקיו (הוא) עמו, ועד שנעשה שותף להקב\"ה במעשה בראשית28, שהוא פועל חידוש בהבריאה (כמו הקב\"ה כביכול) כי ע\"י עבודתו בעבודת הבירורים לעשות את העולם דירה לו ית', הוא פועל חידוש בהבריאה [דזהו גם מה שבשבת בראשית קורין בתורה בראשית ברא אלקים את השמים ואת הארץ, שעי\"ז נעשה בריאת השמים והארץ וכל צבאיהם מחדש ובאופן חדש], ועד שיהי' השמים החדשים והארץ החדשה גו'29",
+          "topics": [
+            "העלם",
+            "בריאה",
+            "עולם",
+            "יעקב",
+            "ישראל"
+          ],
+          "word_count": 259
+        }
+      ],
+      "footnotes": "* ) יצא לאור בקונטרס מוצאי ש\"פ בראשית – ה'תשל\"ח, \"ר\"ח מ\"ח ה'תשל\"ח\".1) תנחומא (באָבער) יא. ועוד – הובא בפרש\"י עה\"ת.2) תהלים קיא, ו.3) אוה\"ת בא ע' רסב.4) שם ע' רנה, רעח.5) תענית בסופה (ובפרש\"י שם). פרש\"י בשלח טו, ב.6) הובא באוה\"ת שם. ובארוכה יותר בהמשך תרס\"ו בתחלתו (ס\"ע ג ואילך), ד\"ה יו\"ט של ר\"ה תש\"י ס\"ז. ובכ\"מ.7) בראשית ב, טו.8) אוה\"ת בראשית (ח\"ו ע' 2082 – בשם ארז\"ל). וראה לקו\"ת שה\"ש (מח, ד). יל\"ר בראשית. זח\"א כז, א. תקו\"ז תכ\"א (סב, א). שם תנ\"ה (פח, ב).9) המשך תרס\"ו שם (ע' ד). ע' תקט. ד\"ה יו\"ט של ר\"ה תש\"י שם. ועוד.10) המשך תרס\"ו ע' שלז ואילך. ס\"ע שנד ואילך. ועוד.11) להעיר גם מהמשך הנ\"ל ס\"ע שמ ואילך.12) קה\"ר פ\"ג, יא.13) המשך וככה תרל\"ז פס\"ח. ד\"ה אם רוח המושל תרצ\"ה פ\"ו. ובכ\"מ.14) ראה אוה\"ת שבהערה 3. וראה לקו\"ש ח\"י ע' 3, 5.15) לשון הכתוב – דה\"א כט, יד.16) ראה אוה\"ת שבהערה 3.17) ואתחנן ד, כט. וראה לקו\"ת ראה לב, ג.18) ומכיון שמצד ההעלמות וההסתרים, הבירור הוא \"בבחי' התחדשות גמורה כחידוש יש מאין\", לכן, עי\"ז דוקא הוא עיקר המשכת האור חדש (המשך תרס\"ו ע' שנד-ה).19) לקו\"ת סוכות פב, א. שער האמונה בהקדמה. המשך תרס\"ו ע' רמח ואילך (ולהעיר גם מהמשל המובא שם ס\"ע שפ ואילך).20) ואתחנן שם.21) צפני' ג, ט.22) עובדי' א, כא.23) כמבואר בהשיחה (סעיף ד' – נדפסה בלקו\"ש ח\"כ ע' 269).24) כ\"ה בלקו\"ת שבהערה 26. ולהעיר, שבכ\"מ בדא\"ח מבוארים גם (נוסחאות ו)מנהגים שאין נוהגים בחב\"ד.25) לשון הכתוב – ישעי' מד, ב. ירמי' ל, יו\"ד. ועוד.26) לקו\"ת בלק עב, ב.27) בלק כג, כא. ובלקו\"ת שם (עא, סע\"ד), שענין זה (דהוי' אלקיו עמו) \"הוא העזר מלמעלה\" לבחי' יעקב. – ושייך לתרועת מלך בו – עבודה דר\"ה (לקו\"ת ר\"ה נד, ג. וראה גם לקו\"ת בלק עב, סע\"ב).28) שבת קיט, רע\"ב. וראה לקו\"ש ח\"ו ע' 22 הע' 73.29) ישעי' סו, כב. ובסה\"מ תרע\"ח ע' רפד: והוא ההמשכה מבחי' עצמות א\"ס שלמעלה מגילוי הקו ולמעלה מהאור שהי' ממלא מקום החלל.",
+      "glossary": "|אהפוך אל עמים שפה ברורה (Ehpoch El Amim Safah Berurah): I will turn to the peoples a clear language; אוא\"ס (Or Ein Sof): Infinite light; אוה\"ת (Or HaTorah): Light of the Torah; אומות העולם (Umot Ha'olam): The nations of the world; אור חדש (Or Chadash): New light; אידן זאָלן זוכן (Yidden Zolen Zuchn): Jews should seek; אל תירא עבדי יעקב (Al Tira Avdi Ya'akov): Fear not, My servant Jacob; אלקים (Elohim): God; אם רוח המושל (Im Ruach HaMoshel): If the spirit of the ruler; ארז\"ל (Amru Rabboteinu Zichronam Livracha): Our sages of blessed memory said; ארץ ישראל (Eretz Yisrael): Land of Israel; אשתו (Ishto): His wife; בא (Bo): Come; באָבער (Buber): Buber; באופן חדש (Be'ofen Chadash): In a new way; בהקדמה (BeHakdamah): In the introduction; בונה עולמות ומחריבן (Boneh Olamot U'machrivam): Builds worlds and destroys them; בחדרו (Bechadro): In his room; בירורים בבי\"ע (Birurim BeBeriah Yetzirah Asiyah): Refinements in Creation, Formation, Action; בלק (Balak): Balak; בנ\"י (Bnei Yisrael): Children of Israel; בנו הקטן (Beno HaKatan): His small son; בס\"ד (Besiyata Dishmaya): With Divine assistance; בסופה (BeSofah): At its end; ברא (Bara): Created; בראשית (Bereishit): Genesis/Beginning; בריאת העולמות (Bri'at Ha'olamot): Creation of the worlds; ברצונו (Birtzonо): By His will; בשלח (Beshalach): When he sent; גודל ההעלם והסתר (Godel HaHe'elem VeHester): Great concealment and hiddenness; גילוי (Gilui): Revelation; גילוי הקו (Gilui HaKav): Revelation of the line; געפינען דעם אויבערשטן (Gefinen Dem Oybershtn): Find the Almighty; ד\"ה (Dibur HaMatchil): Opening words; דא\"ח (Derech Chaim): Way of Life; דה\"א (Divrei HaYamim Aleph): Chronicles I; דירה (Dirah): Dwelling; דרושי רבותינו נשיאינו (Drushei Rabboteinu Nesi'einu): The homilies of our Rebbes, our leaders; ה'תשל\"ח (Hey Tashla\"ch): The year 5738; האב המסתיר (Ha'av HaMastir): The father who hides; הארץ (Ha'aretz): The earth; ההמשכה (HaHamshachah): The drawing down; ההעלמות וההסתרים (HaHe'alamot VeHahesterim): The concealments and hiddennesses; הוי' אלקיו עמו (Hashem Elokav Imo): The Lord his God is with him; הולך לבטח (Holech LaBetach): Goes with confidence; החודש הזה לכם (Hachodesh Hazeh Lachem): This month is for you; המשך תרס\"ו (Hemshech Tav Reish Samech Vav): Discourse of 5666; המשכת (Hamshachat): Drawing down; הסובב (HaSovev): The encompassing; הע' (He'arah): Note; העזר מלמעלה (Ha'ezer MiLema'alah): Help from above; הקב\"ה (HaKadosh Baruch Hu): The Holy One, Blessed be He; הקו (HaKav): The line; השיחה (HaSichah): The discourse; השמים (Hashamayim): The heavens; השמים החדשים והארץ החדשה (HaShamayim HaChadashim VeHa'aretz HaChadashah): The new heavens and new earth; התהוות הכלים (Hithavut HaKelim): Formation of vessels; התורה (HaTorah): The Torah; ואתחנן (Ve'etchanan): And I pleaded; ובקשתם משם (U'vikashtem Misham): And you shall seek from there; והיתה לה' המלוכה (VeHaytah LaHashem HaMeluchah): And the kingdom shall be the Lord's; ויניחהו בג\"ע (Vaynichehu BeGan Eden): And He placed him in the Garden of Eden; ויעקב הלך לדרכו (VeYa'akov Halach Ledarko): And Jacob went on his way; ומצאת (U'matzata): And you will find; ז\"א (Zeir Anpin): Small face/Microprosopus; ז\"מ (Zuhama Matronita): Impure husks; זה (Zeh): This; זח\"א (Zohar Chadash Aleph): New Zohar Part 1; חב\"ד (Chabad): Chabad; חו\"ל (Chutz La'aretz): Outside the Land; חודש (Chodesh): Month; חידוש בהבריאה (Chidush BaHabri'ah): Innovation in creation; חכמת הבן (Chochmat HaBen): Wisdom of the son; חלל (Chalal): Empty space; יגיעה ועמל (Yegi'ah Ve'amal): Toil and labor; יו\"ט של ר\"ה (Yom Tov Shel Rosh Hashanah): Holiday of Rosh Hashanah; יורשים (Yorshim): Inherit; יחוד (Yichud): Unification; יל\"ר (Yalkut Reuveni): Yalkut Reuveni; ימי החול (Yemei HaChol): Weekdays; יסוד (Yesod): Foundation; יעקב עבדי (Ya'akov Avdi): Jacob My servant; ירמי' (Yirmiyahu): Jeremiah; ישעי' (Yeshayahu): Isaiah; ישראל (Yisrael): Israel; כאו\"א (Kol Echad Ve'echad): Each and every one; כביכול (Kivyachol): As it were; כובשים (Kovshim): Conquer; כח ועוז (Koach Ve'oz): Strength and might; כח מעשיו הגיד לעמו (Koach Ma'asav Higid Le'amo): The power of His works He declared to His people; כיבוש (Kibush): Conquest; כל צבאיהם (Kol Tzeva'eihem): All their hosts; לחזור ולירד (Lachzor VeLared): To return and descend; לסטים (Listim): Bandits/robbers; לעבדה ולשמרה (Le'ovdah U'leshomrah): To work it and guard it; לעבדו שכם אחד (Le'ovdo Shechem Echad): To serve Him with one shoulder; לעתיד (Le'atid): In the future; לקו\"ש (Likutei Sichot): Collected Discourses; לקו\"ת (Likutei Torah): Collected Torah; מבררים (Mevarrim): Refine/clarify; מוצאי שבת (Motza'ei Shabbat): Saturday night; מחדש (Mechadesh): Anew; מחליטים בתוקף (Machli'tim BeTo'kef): Decide with strength; מלכות (Malchut): Kingship; מלכי אדום (Malchei Edom): Kings of Edom; ממך הכל (Mimcha HaKol): Everything is from You; ממכ\"ע (Memaleh Kol Almin): Filling all worlds; מנהגים (Minhagim): Customs; מסתלקת (Mistalekes): Departs; מע\"ב (Ma'aseh Bereishit): Act of creation; מעשה בראשית (Ma'aseh Bereishit): Act of creation; מציאות העולמות (Metzi'ut Ha'olamot): Existence of worlds; מקום פנוי (Makom Panui): Vacant place; מראה באצבעו (Mar'eh Be'etzba'o): Pointing with his finger; נדפסה (Nidpesah): Was printed; נוסחאות (Nuscha'ot): Versions; נחלת גוים (Nachalat Goyim): The inheritance of nations; נחלת יעקב (Nachalat Ya'akov): Jacob's inheritance; נשמה יתירה (Neshamah Yeteirah): Additional soul; סה\"מ (Sefer HaMa'amarim): Book of Discourses; סובב וממלא (Sovev U'memaleh): Encompassing and filling; סוכ\"ע (Sovev Kol Almin): Encompassing all worlds; סוכות (Sukkot): Sukkot; סע\"ד (Se'if Dalet): Section 4; עבודה דר\"ה (Avodah DeRosh Hashanah): Service of Rosh Hashanah; עבודת הבירורים (Avodat HaBirurim): Service of refinements; עה\"ת (Al HaTorah): On the Torah; עובדי' (Ovadiah): Obadiah; עובדין דחול (Ovdin DeChol): Weekday activities; עולמות בי\"ע (Olamot Beriah Yetzirah Asiyah): Worlds of Creation, Formation, Action; עמק המלך (Emek HaMelech): Valley of the King; עניני הרשות (Inyanei HaReshut): Matters of permission/optional matters; עצמות (Atzmus): Essence; עצמות א\"ס (Atzmus Ein Sof): Essence of the Infinite; פס\"ח (Pesach): Passover; פרש\"י (Rashi): Rashi; צמצום (Tzimtzum): Contraction; צמצום הראשון (Tzimtzum HaRishon): First contraction; צפני' (Tzefaniah): Zephaniah; קה\"ר (Kohelet Rabbah): Kohelet Rabbah; קורין בתורה (Korin BaTorah): Read in the Torah; ר' יצחק (Rabbi Yitzchak): Rabbi Isaac; ראה (Re'eh): See; רמ\"ח מ\"ע (Ramach Mitzvot Aseh): 248 positive commandments; רע\"ב (Reish Ayin Bet): 272; שבעה גוים (Shiv'ah Goyim): Seven nations; שבת בראשית (Shabbat Bereishit): Sabbath of Genesis; שה\"ש (Shir HaShirim): Song of Songs; שותף להקב\"ה (Shutaf LaKadosh Baruch Hu): Partner to the Holy One; שמחה ובטוב לבב (Simchah U'veTuv Levav): Joy and good heart; שס\"ה מל\"ת (Shasa Mitzvot Lo Ta'aseh): 365 negative commandments; שער האמונה (Sha'ar HaEmunah): Gate of Faith; ששת ימי המעשה (Sheshet Yemei HaMa'aseh): Six days of work; תהלים (Tehillim): Psalms; תומ\"צ (Taryag Mitzvot): 613 commandments; תוספות אורות (Tosafot Orot): Additional lights; תורה ומצוות (Torah U'mitzvot): Torah and commandments; תכ\"א (Tikkun Chaf Aleph): Tikkun 21; תכלית (Tachlit): Purpose/goal; תנ\"ה (Tikkun Nun Hey): Tikkun 55; תנחומא (Tanchuma): Tanchuma; תענית (Ta'anit): Fast; תקו\"ז (Tikkunei Zohar): Tikkunei Zohar; תרועת מלך (Teru'at Melech): Blast of the king; תרל\"ז (Tav Reish Lamed Zayin): Year 5637; תרע\"ח (Tav Reish Ayin Chet): Year 5678; תרצ\"ה (Tav Reish Tzadi Hey): Year 5635; תש\"י (Tav Shin Yud): Year 5710;"
+    },
+    "search_tags": [
+      "צמצום",
+      "עבודה",
+      "תכלית",
+      "Contraction",
+      "יסוד",
+      "העלם",
+      "נשיא",
+      "World",
+      "מלכות",
+      "אוא\"ס",
+      "Isaac",
+      "יצחק",
+      "Jacob",
+      "Concealment",
+      "Concealments",
+      "Commandments",
+      "Dwelling",
+      "Purpose",
+      "Torah",
+      "כוונה",
+      "Creation",
+      "מצוות",
+      "יעקב",
+      "Israel",
+      "ישראל",
+      "המשכה",
+      "תורה",
+      "Kingship",
+      "Light",
+      "אור",
+      "בריאה",
+      "עצמות",
+      "Intention",
+      "Worlds",
+      "Essence",
+      "Foundation",
+      "Infinite Light",
+      "Revelation",
+      "Service",
+      "Leader",
+      "גילוי",
+      "העלמות",
+      "דירה",
+      "עולמות",
+      "Drawing down",
+      "עולם"
+    ]
+  }
+}
