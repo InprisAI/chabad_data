@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maamarim Collection - Chassidic Discourses</title>
+    <meta name="description" content="Collection of 195 Chassidic discourses (Maamarim) from 1941-1968 with Hebrew text, footnotes, and comprehensive metadata. Optimized for LLM search.">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            border-bottom: 3px solid #4a90e2;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #555;
+            margin-top: 30px;
+        }
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin: 20px 0;
+        }
+        .stat-box {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            border-left: 4px solid #4a90e2;
+        }
+        .stat-box strong {
+            display: block;
+            font-size: 24px;
+            color: #4a90e2;
+        }
+        .links {
+            background: #e8f4f8;
+            padding: 20px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        .links a {
+            display: inline-block;
+            margin: 10px 15px 10px 0;
+            padding: 10px 20px;
+            background: #4a90e2;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: 500;
+        }
+        .links a:hover {
+            background: #357abd;
+        }
+        .info-box {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 5px;
+        }
+        code {
+            background: #f4f4f4;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-family: 'Courier New', monospace;
+        }
+        ul {
+            line-height: 1.8;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📚 Maamarim Collection - Chassidic Discourses</h1>
+        
+        <div class="info-box">
+            <strong>For LLM Search (Perplexity, Claude, etc.):</strong>
+            <p>This collection contains structured JSON data optimized for semantic search. Use the links below to access the data files directly.</p>
+        </div>
+
+        <div class="stats">
+            <div class="stat-box">
+                <strong>195</strong>
+                <span>Documents</span>
+            </div>
+            <div class="stat-box">
+                <strong>1,739</strong>
+                <span>Searchable Chunks</span>
+            </div>
+            <div class="stat-box">
+                <strong>1941-1968</strong>
+                <span>Date Range</span>
+            </div>
+            <div class="stat-box">
+                <strong>4</strong>
+                <span>Languages</span>
+            </div>
+        </div>
+
+        <h2>📥 Data Files</h2>
+        <div class="links">
+            <a href="maamarim_structured.json">Main JSON File</a>
+            <a href="maamarim_search_index.json">Search Index</a>
+            <a href="maamarim_quick_reference.txt">Quick Reference</a>
+        </div>
+
+        <h2>🔍 Search Capabilities</h2>
+        <p>Each document includes:</p>
+        <ul>
+            <li><strong>Metadata:</strong> Hebrew dates, Gregorian dates, author, opening phrases</li>
+            <li><strong>Topics:</strong> Hebrew concepts (שכינה, צדיקים, תחתונים, etc.)</li>
+            <li><strong>Key Concepts:</strong> English translations (Divine Presence, Righteous ones, Lower worlds)</li>
+            <li><strong>References:</strong> Biblical, Talmudic, and Chassidic citations</li>
+            <li><strong>Chunked Text:</strong> Main text divided into 1,000-1,500 character searchable chunks</li>
+            <li><strong>Footnotes & Glossary:</strong> Complete annotations and definitions</li>
+        </ul>
+
+        <h2>📋 Collection Structure</h2>
+        <p>The JSON file contains:</p>
+        <ul>
+            <li><code>collection_metadata</code> - Overview and statistics</li>
+            <li><code>documents</code> - Array of 195 documents, each with:
+                <ul>
+                    <li><code>id</code> - Document identifier (e.g., "1_ג")</li>
+                    <li><code>reference</code> - Full reference string</li>
+                    <li><code>metadata</code> - Dates, topics, concepts, references</li>
+                    <li><code>content</code> - Main text, chunks, footnotes, glossary</li>
+                    <li><code>search_tags</code> - Keywords for search</li>
+                </ul>
+            </li>
+        </ul>
+
+        <h2>🌐 Usage Instructions</h2>
+        <p><strong>For Perplexity:</strong></p>
+        <ol>
+            <li>Use the raw GitHub URL: <code>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/maamarim_structured.json</code></li>
+            <li>Or reference this page: <code>https://YOUR_USERNAME.github.io/YOUR_REPO/</code></li>
+            <li>Perplexity can search by:
+                <ul>
+                    <li>Hebrew topics (שכינה, צדיקים)</li>
+                    <li>English concepts (Divine Presence, Righteous ones)</li>
+                    <li>Dates (1951, תשי"א)</li>
+                    <li>References (biblical, talmudic citations)</li>
+                    <li>Opening phrases</li>
+                </ul>
+            </li>
+        </ol>
+
+        <h2>📊 Example Queries</h2>
+        <ul>
+            <li>"What does the Rebbe say about שכינה (Divine Presence)?"</li>
+            <li>"Find maamarim from 1951 about צדיקים"</li>
+            <li>"Show me discussions of the Tabernacle (משכן)"</li>
+            <li>"What are the references to תניא in the collection?"</li>
+        </ul>
+
+        <h2>📝 File Formats</h2>
+        <ul>
+            <li><strong>maamarim_structured.json</strong> (11.58 MB) - Complete structured data with all content</li>
+            <li><strong>maamarim_search_index.json</strong> - Fast lookup indexes by topic, date, concept, reference</li>
+            <li><strong>maamarim_quick_reference.txt</strong> - Human-readable overview</li>
+        </ul>
+
+        <h2>🔗 GitHub Raw URLs</h2>
+        <p>Replace <code>YOUR_USERNAME</code> and <code>YOUR_REPO</code> with your actual GitHub details:</p>
+        <ul>
+            <li>Main file: <code>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/maamarim_structured.json</code></li>
+            <li>Index: <code>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/maamarim_search_index.json</code></li>
+        </ul>
+    </div>
+</body>
+</html>
+
+
+
