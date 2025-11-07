@@ -2,8 +2,8 @@ MAAMARIM COLLECTION - QUICK REFERENCE
 ==================================================
 
 Total Documents: 195
-Total Unique Topics: 19
-Total Unique Concepts: 19
+Total Unique Topics: 80
+Total Unique Concepts: 79
 Date Range: 1941-1968
 
 DOCUMENT SUMMARY:
@@ -11,73 +11,73 @@ DOCUMENT SUMMARY:
 ID: 1_ג
 Date: יו"ד שבט, תשי"א (1951)
 Opening: באתי לגני אחותי כלה2
-Topics: שכינה, צדיקים, תחתונים, עליונים, אצילות
+Topics: שכינה (Shechinah/Divine Presence), אלקות (Divinity), אור (Light), אור א"ס (Infinite Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), תחתונים (Lower worlds) (+44 more)
 Words: 2869, Chunks: 13
 
 ID: 1_יג
 Date: י"ג שבט, ה'תשי"א (1951)
 Opening: N/A
-Topics: שכינה, אצילות, בריאה
+Topics: שכינה (Shechinah/Divine Presence), אור (Light), אור א"ס (Infinite Light), גילוי (Revelation), העלם (Concealment), אצילות (Emanation), בריאה (Creation), עולם (World), עולמות (Worlds), ישראל (Israel) (+12 more)
 Words: 833, Chunks: 4
 
 ID: 1_יט
 Date: יו"ד שבט, תשי"ב (1952)
 Opening: N/A
-Topics: שכינה, צדיקים, תחתונים, אצילות, יצירה
+Topics: שכינה (Shechinah/Divine Presence), אלקות (Divinity), אור (Light), אור א"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), צמצום (Contraction), תחתונים (Lower worlds), אצילות (Emanation), יצירה (Formation) (+42 more)
 Words: 2693, Chunks: 11
 
 ID: 1_כט
 Date: יו"ד שבט, ה'תשי"ג (1953)
 Opening: N/A
-Topics: שכינה, צדיקים, תחתונים, משכן, מקדש
+Topics: שכינה (Shechinah/Divine Presence), אלקות (Divinity), אור (Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), עולם (World), עולמות (Worlds), חכמה (Wisdom) (+36 more)
 Words: 2853, Chunks: 13
 
 ID: 1_לז
 Date: N/A
 Opening: N/A
-Topics: N/A
+Topics: אור (Light), יסוד (Foundation), מצוות (Commandments), תורה (Torah), דור (Generation), תשובה (Repentance), רבי (Rabbi)
 Words: 246, Chunks: 1
 
 ID: 1_מג
 Date: י"ג אלול, ה'תשי"ד (1954)
 Opening: N/A
-Topics: מלכות
+Topics: אלקות (Divinity), אור (Light), גילוי (Revelation), העלם (Concealment), עולם (World), מלכות (Kingship), ספירות (Sefirot), אברהם (Abraham), דוד (David), מצוות (Commandments) (+7 more)
 Words: 1281, Chunks: 6
 
 ID: 1_נא
 Date: מבה"ח כסלו, תשי"ז (1957)
 Opening: N/A
-Topics: שכינה, צדיקים, תחתונים, עליונים, בריאה
+Topics: שכינה (Shechinah/Divine Presence), אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), תחתונים (Lower worlds), עליונים (Upper worlds) (+35 more)
 Words: 4370, Chunks: 18
 
 ID: 1_סה
 Date: יו"ד שבט, ה'תשי"ט (1959)
 Opening: N/A
-Topics: שכינה, צדיקים, תחתונים, עליונים, אצילות
+Topics: שכינה (Shechinah/Divine Presence), אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), תחתונים (Lower worlds), עליונים (Upper worlds) (+44 more)
 Words: 3608, Chunks: 15
 
 ID: 1_עז
 Date: ט"ז אדר, ה'תשכ"ח (1968)
 Opening: N/A
-Topics: שכינה, משכן, מקדש, קרבנות, קטרת
+Topics: שכינה (Shechinah/Divine Presence), אור (Light), עצמות (Essence), גילוי (Revelation), עולמות (Worlds), מלכות (Kingship), חכמה (Wisdom), בינה (Understanding), הוד (Splendor), יסוד (Foundation) (+20 more)
 Words: 1193, Chunks: 3
 
 ID: 1_פג
 Date: N/A
 Opening: N/A
-Topics: בריאה, משכן, אברהם, דעת
+Topics: אור (Light), גילוי (Revelation), בריאה (Creation), עולם (World), דעת (Knowledge), יסוד (Foundation), אברהם (Abraham), יצחק (Isaac), יעקב (Jacob), ישראל (Israel) (+11 more)
 Words: 1285, Chunks: 5
 
 ID: 1_פט
 Date: N/A
 Opening: N/A
-Topics: עליונים, אצילות, משה, חכמה, דעת
+Topics: אלקות (Divinity), אור (Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), עליונים (Upper worlds), אצילות (Emanation), בריאה (Creation), עולם (World) (+30 more)
 Words: 2225, Chunks: 10
 
 ID: 1_קג
 Date: N/A
 Opening: N/A
-Topics: מקדש, אברהם, מלכות, חכמה, בינה
+Topics: אלקות (Divinity), אור (Light), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), יצירה (Formation), עולם (World), מלכות (Kingship), חכמה (Wisdom), בינה (Understanding) (+21 more)
 Words: 2923, Chunks: 13
 
 ID: 1_קיג
@@ -89,25 +89,25 @@ Words: 0, Chunks: 0
 ID: 1_קיט
 Date: N/A
 Opening: N/A
-Topics: שכינה, צדיקים, תחתונים, עליונים, אצילות
+Topics: שכינה (Shechinah/Divine Presence), אור (Light), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), עליונים (Upper worlds), אצילות (Emanation), בריאה (Creation), עולם (World), עולמות (Worlds) (+32 more)
 Words: 1937, Chunks: 8
 
 ID: 1_קכט
 Date: N/A
 Opening: N/A
-Topics: תחתונים, בריאה, אברהם, משה, מלכות
+Topics: אלקות (Divinity), אור (Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), בריאה (Creation), עולם (World), מלכות (Kingship), חכמה (Wisdom) (+22 more)
 Words: 1232, Chunks: 6
 
 ID: 1_קלט
 Date: N/A
 Opening: N/A
-Topics: אברהם, משה, מלכות, חכמה, דעת
+Topics: אור (Light), גילוי (Revelation), העלם (Concealment), עולם (World), עולמות (Worlds), מלכות (Kingship), חכמה (Wisdom), דעת (Knowledge), נצח (Eternity), הוד (Splendor) (+34 more)
 Words: 2416, Chunks: 11
 
 ID: 1_קנא
 Date: N/A
 Opening: N/A
-Topics: שכינה, צדיקים, קרבנות, משה, מלכות
+Topics: שכינה (Shechinah/Divine Presence), אלקות (Divinity), אור (Light), גילוי (Revelation), העלם (Concealment), אצילות (Emanation), בריאה (Creation), יצירה (Formation), עשיה (Action), עולם (World) (+31 more)
 Words: 2309, Chunks: 10
 
 ID: 1_קס
@@ -119,49 +119,1097 @@ Words: 0, Chunks: 0
 ID: 1_קסז
 Date: N/A
 Opening: N/A
-Topics: צדיקים, קרבנות, חכמה, דעת
+Topics: אור (Light), גילוי (Revelation), עולם (World), חכמה (Wisdom), דעת (Knowledge), נצח (Eternity), צדיקים (Righteous ones), צדיק (Righteous one), יעקב (Jacob), ישראל (Israel) (+20 more)
 Words: 1665, Chunks: 7
 
 ID: 1_קעה
 Date: N/A
 Opening: N/A
-Topics: בריאה, מקדש, קרבנות, משה, מלכות
+Topics: אור (Light), גילוי (Revelation), העלם (Concealment), עליונים (Upper worlds), בריאה (Creation), עולם (World), עולמות (Worlds), מלכות (Kingship), בינה (Understanding), דעת (Knowledge) (+23 more)
 Words: 2222, Chunks: 10
 
-... and 175 more documents
+ID: 1_קפה
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), אצילות (Emanation), עולם (World), עולמות (Worlds), מלכות (Kingship) (+42 more)
+Words: 5199, Chunks: 22
+
+ID: 1_רה
+Date: N/A
+Opening: N/A
+Topics: אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), תחתונים (Lower worlds), עולם (World), עולמות (Worlds), חכמה (Wisdom) (+22 more)
+Words: 1727, Chunks: 7
+
+ID: 1_רטו
+Date: יו"ד שבט, ה'תשל"ז
+Opening: N/A
+Topics: שכינה (Shechinah/Divine Presence), אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), תחתונים (Lower worlds), אצילות (Emanation), בריאה (Creation) (+38 more)
+Words: 5084, Chunks: 21
+
+ID: 1_רלה
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), עליונים (Upper worlds), אצילות (Emanation), בריאה (Creation), עולם (World), עולמות (Worlds) (+25 more)
+Words: 2477, Chunks: 11
+
+ID: 1_רמה
+Date: N/A
+Opening: N/A
+Topics: אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), בריאה (Creation), יצירה (Formation), עולם (World), עולמות (Worlds) (+31 more)
+Words: 3802, Chunks: 15
+
+ID: 1_רנט
+Date: N/A
+Opening: N/A
+Topics: אור (Light), אוא"ס (Infinite Light), עצמות (Essence), עולם (World), יעקב (Jacob), משה (Moses), אהרן (Aaron), ישראל (Israel), מקדש (Temple), בית המקדש (Holy Temple) (+11 more)
+Words: 1325, Chunks: 6
+
+ID: 1_רסז
+Date: N/A
+Opening: N/A
+Topics: אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), בריאה (Creation), עולם (World), עולמות (Worlds), מלכות (Kingship) (+13 more)
+Words: 751, Chunks: 3
+
+ID: 1_רעג
+Date: N/A
+Opening: N/A
+Topics: אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), עולם (World), דעת (Knowledge), צדיקים (Righteous ones), צדיק (Righteous one), אברהם (Abraham) (+13 more)
+Words: 1008, Chunks: 5
+
+ID: 1_רפא
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), אצילות (Emanation), עולם (World), עולמות (Worlds), מלכות (Kingship), חכמה (Wisdom) (+16 more)
+Words: 1232, Chunks: 6
+
+ID: 1_רפט
+Date: N/A
+Opening: N/A
+Topics: שכינה (Shechinah/Divine Presence), אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), תחתונים (Lower worlds), עליונים (Upper worlds), אצילות (Emanation), עולם (World), עולמות (Worlds) (+22 more)
+Words: 1678, Chunks: 8
+
+ID: 1_רצט
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), גילוי (Revelation), העלם (Concealment), עולם (World), מלכות (Kingship), חסד (Kindness), נצח (Eternity), הוד (Splendor), יסוד (Foundation) (+20 more)
+Words: 942, Chunks: 4
+
+ID: 1_שז
+Date: N/A
+Opening: N/A
+Topics: שכינה (Shechinah/Divine Presence), אלקות (Divinity), אור (Light), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), עולם (World), דעת (Knowledge), נצח (Eternity), הוד (Splendor) (+27 more)
+Words: 1961, Chunks: 9
+
+ID: 1_שיז
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), עצמות (Essence), גילוי (Revelation), תחתונים (Lower worlds), עולם (World), מלכות (Kingship), חכמה (Wisdom), דעת (Knowledge), חסד (Kindness) (+33 more)
+Words: 2436, Chunks: 11
+
+ID: 1_שכט
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), עצמות (Essence), גילוי (Revelation), עולם (World), מלכות (Kingship), חכמה (Wisdom), בינה (Understanding), דעת (Knowledge), נצח (Eternity) (+17 more)
+Words: 1400, Chunks: 6
+
+ID: 1_שלז
+Date: N/A
+Opening: N/A
+Topics: אור (Light), עצמות (Essence), תחתונים (Lower worlds), בריאה (Creation), עולם (World), עולמות (Worlds), מלכות (Kingship), דעת (Knowledge), צדיקים (Righteous ones), צדיק (Righteous one) (+19 more)
+Words: 1332, Chunks: 6
+
+ID: 1_שמה
+Date: N/A
+Opening: N/A
+Topics: אור (Light), אור א"ס (Infinite Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), צמצום (Contraction), תחתונים (Lower worlds), עולם (World), עולמות (Worlds), מלכות (Kingship) (+30 more)
+Words: 2031, Chunks: 9
+
+ID: 1_שנה
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), גילוי (Revelation), העלם (Concealment), עולם (World), מלכות (Kingship), חכמה (Wisdom), בינה (Understanding), דעת (Knowledge), הוד (Splendor) (+18 more)
+Words: 1561, Chunks: 7
+
+ID: 1_שסג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), בריאה (Creation), עולם (World), חכמה (Wisdom) (+29 more)
+Words: 3322, Chunks: 14
+
+ID: 1_שעז
+Date: N/A
+Opening: N/A
+Topics: שכינה (Shechinah/Divine Presence), אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), תחתונים (Lower worlds), אצילות (Emanation), בריאה (Creation), עולם (World) (+24 more)
+Words: 2043, Chunks: 8
+
+ID: 1_שפז
+Date: N/A
+Opening: N/A
+Topics: שכינה (Shechinah/Divine Presence), אור (Light), עולם (World), מלכות (Kingship), יעקב (Jacob), משה (Moses), אהרן (Aaron), ישראל (Israel), קרבנות (Sacrifices), תורה (Torah) (+6 more)
+Words: 808, Chunks: 4
+
+ID: 1_שצג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), עולם (World), מלכות (Kingship), יעקב (Jacob) (+24 more)
+Words: 1963, Chunks: 8
+
+ID: 1_תז
+Date: N/A
+Opening: N/A
+Topics: אור (Light), גילוי (Revelation), העלם (Concealment), עליונים (Upper worlds), אצילות (Emanation), עולם (World), עולמות (Worlds), חכמה (Wisdom), יעקב (Jacob), ישראל (Israel) (+9 more)
+Words: 922, Chunks: 4
+
+ID: 1_תיג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), גילוי (Revelation), צמצום (Contraction), אצילות (Emanation), יצירה (Formation), עולם (World), עולמות (Worlds), דעת (Knowledge), חסד (Kindness) (+23 more)
+Words: 1239, Chunks: 5
+
+ID: 1_תכא
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), עצמות (Essence), גילוי (Revelation), בריאה (Creation), יצירה (Formation), עולם (World), עולמות (Worlds), מלכות (Kingship), יעקב (Jacob) (+20 more)
+Words: 2199, Chunks: 9
+
+ID: 1_תכט
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), יצירה (Formation), עולם (World), עולמות (Worlds) (+38 more)
+Words: 3103, Chunks: 14
+
+ID: 1_תמא
+Date: N/A
+Opening: N/A
+Topics: אור (Light), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), עולם (World), מלכות (Kingship), צדיקים (Righteous ones), צדיק (Righteous one), ישראל (Israel), מקדש (Temple) (+13 more)
+Words: 1609, Chunks: 7
+
+ID: 1_תמט
+Date: N/A
+Opening: N/A
+Topics: אור (Light), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), עולם (World), חכמה (Wisdom), דעת (Knowledge), נצח (Eternity), צדיקים (Righteous ones), צדיק (Righteous one) (+20 more)
+Words: 1467, Chunks: 7
+
+ID: 1_תנז
+Date: N/A
+Opening: N/A
+Topics: שכינה (Shechinah/Divine Presence), אלקות (Divinity), אור (Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), עולם (World), חכמה (Wisdom), בינה (Understanding) (+23 more)
+Words: 2124, Chunks: 9
+
+ID: 1_תסז
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), גילוי (Revelation), עולם (World), מלכות (Kingship), דעת (Knowledge), דוד (David), ישראל (Israel), מקדש (Temple), קרבנות (Sacrifices) (+13 more)
+Words: 1124, Chunks: 5
+
+ID: 1_תעה
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), בריאה (Creation), עולם (World), מלכות (Kingship), דעת (Knowledge) (+26 more)
+Words: 1477, Chunks: 6
+
+ID: 2_ג
+Date: N/A
+Opening: N/A
+Topics: שכינה (Shechinah/Divine Presence), אור (Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), בריאה (Creation), עולם (World), עולמות (Worlds), דעת (Knowledge) (+37 more)
+Words: 2345, Chunks: 11
+
+ID: 2_יז
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אור א"ס (Infinite Light), גילוי (Revelation), עולם (World), מלכות (Kingship), חכמה (Wisdom), בינה (Understanding), דעת (Knowledge), חסד (Kindness) (+27 more)
+Words: 1799, Chunks: 8
+
+ID: 2_כה
+Date: N/A
+Opening: N/A
+Topics: שכינה (Shechinah/Divine Presence), אלקות (Divinity), אור (Light), עצמות (Essence), גילוי (Revelation), צמצום (Contraction), תחתונים (Lower worlds), עליונים (Upper worlds), אצילות (Emanation), עולם (World) (+35 more)
+Words: 2207, Chunks: 10
+
+ID: 2_לז
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), גילוי (Revelation), תחתונים (Lower worlds), עליונים (Upper worlds), מלכות (Kingship), בינה (Understanding), דעת (Knowledge), נצח (Eternity) (+21 more)
+Words: 1844, Chunks: 9
+
+ID: 2_מה
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), עולם (World), עולמות (Worlds), חכמה (Wisdom) (+21 more)
+Words: 2077, Chunks: 10
+
+ID: 2_נה
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), עליונים (Upper worlds), בריאה (Creation), עולם (World) (+35 more)
+Words: 2538, Chunks: 12
+
+ID: 2_סז
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), תחתונים (Lower worlds), עולם (World), עולמות (Worlds) (+30 more)
+Words: 2116, Chunks: 10
+
+ID: 2_עז
+Date: י"ג אלול ה'תשמ"א
+Opening: N/A
+Topics: אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), צמצום (Contraction), בריאה (Creation), חכמה (Wisdom), בינה (Understanding), חסד (Kindness), צדיקים (Righteous ones) (+22 more)
+Words: 1648, Chunks: 7
+
+ID: 2_פז
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), אצילות (Emanation), עולם (World), עולמות (Worlds) (+30 more)
+Words: 2227, Chunks: 10
+
+ID: 2_צט
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), תחתונים (Lower worlds), אצילות (Emanation), בריאה (Creation) (+37 more)
+Words: 3571, Chunks: 16
+
+ID: 2_קטו
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), גילוי (Revelation), עולם (World), מלכות (Kingship), דעת (Knowledge), יצחק (Isaac), דוד (David), ישראל (Israel), דור (Generation) (+6 more)
+Words: 518, Chunks: 3
+
+ID: 2_קכ
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), אצילות (Emanation), בריאה (Creation), יצירה (Formation), עולם (World) (+26 more)
+Words: 2176, Chunks: 10
+
+ID: 2_קלג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), בריאה (Creation), עולם (World), עולמות (Worlds), מלכות (Kingship) (+32 more)
+Words: 2354, Chunks: 10
+
+ID: 2_קמה
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), יצירה (Formation), עולם (World), מלכות (Kingship) (+24 more)
+Words: 1619, Chunks: 7
+
+ID: 2_קנז
+Date: N/A
+Opening: N/A
+Topics: שכינה (Shechinah/Divine Presence), אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), תחתונים (Lower worlds), עליונים (Upper worlds) (+43 more)
+Words: 5985, Chunks: 25
+
+ID: 2_קפא
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), עולם (World), מלכות (Kingship), יעקב (Jacob) (+24 more)
+Words: 1963, Chunks: 8
+
+ID: 2_קצא
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), גילוי (Revelation), תחתונים (Lower worlds), עולם (World), דעת (Knowledge), נצח (Eternity), יסוד (Foundation), אברהם (Abraham), יצחק (Isaac) (+20 more)
+Words: 1762, Chunks: 9
+
+ID: 2_קצט
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), עליונים (Upper worlds), בריאה (Creation), עולם (World) (+34 more)
+Words: 2457, Chunks: 11
+
+ID: 2_ריא
+Date: N/A
+Opening: N/A
+Topics: אור (Light), גילוי (Revelation), העלם (Concealment), עולם (World), עולמות (Worlds), מלכות (Kingship), חכמה (Wisdom), בינה (Understanding), דעת (Knowledge), נצח (Eternity) (+17 more)
+Words: 1880, Chunks: 8
+
+ID: 2_רכא
+Date: N/A
+Opening: N/A
+Topics: אור (Light), גילוי (Revelation), עולם (World), מלכות (Kingship), חכמה (Wisdom), בינה (Understanding), דעת (Knowledge), הוד (Splendor), צדיק (Righteous one), אברהם (Abraham) (+15 more)
+Words: 1364, Chunks: 6
+
+ID: 2_רכט
+Date: N/A
+Opening: N/A
+Topics: שכינה (Shechinah/Divine Presence), אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), עליונים (Upper worlds), אצילות (Emanation) (+25 more)
+Words: 1916, Chunks: 9
+
+ID: 2_רלט
+Date: N/A
+Opening: N/A
+Topics: שכינה (Shechinah/Divine Presence), אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), עליונים (Upper worlds), אצילות (Emanation) (+46 more)
+Words: 3819, Chunks: 17
+
+ID: 2_רנה
+Date: N/A
+Opening: N/A
+Topics: שכינה (Shechinah/Divine Presence), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), צמצום (Contraction), תחתונים (Lower worlds), בריאה (Creation), עולם (World), עולמות (Worlds) (+27 more)
+Words: 2228, Chunks: 10
+
+ID: 2_רסה
+Date: N/A
+Opening: N/A
+Topics: שכינה (Shechinah/Divine Presence), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), עליונים (Upper worlds), אצילות (Emanation), יצירה (Formation), עולם (World) (+28 more)
+Words: 2188, Chunks: 10
+
+ID: 2_רעז
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), גילוי (Revelation), העלם (Concealment), בריאה (Creation), עולם (World), עולמות (Worlds), דעת (Knowledge), נצח (Eternity), צדיקים (Righteous ones) (+15 more)
+Words: 1105, Chunks: 5
+
+ID: 2_רפג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), צמצום (Contraction), אצילות (Emanation), עולם (World), עולמות (Worlds), ישראל (Israel) (+12 more)
+Words: 1186, Chunks: 5
+
+ID: 2_רצא
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אור א"ס (Infinite Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), תחתונים (Lower worlds), עליונים (Upper worlds) (+23 more)
+Words: 2336, Chunks: 10
+
+ID: 2_שא
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), עליונים (Upper worlds), בריאה (Creation), עולם (World) (+33 more)
+Words: 1861, Chunks: 9
+
+ID: 2_שיא
+Date: N/A
+Opening: N/A
+Topics: שכינה (Shechinah/Divine Presence), אלקות (Divinity), אור (Light), גילוי (Revelation), עולם (World), דעת (Knowledge), תפארת (Beauty), נצח (Eternity), צדיקים (Righteous ones), צדיק (Righteous one) (+12 more)
+Words: 839, Chunks: 4
+
+ID: 2_שיז
+Date: N/A
+Opening: N/A
+Topics: אור (Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), בריאה (Creation), עולם (World), דעת (Knowledge), חסד (Kindness), יסוד (Foundation) (+25 more)
+Words: 1652, Chunks: 7
+
+ID: 2_שכה
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), עליונים (Upper worlds), עולם (World), עולמות (Worlds) (+30 more)
+Words: 2144, Chunks: 9
+
+ID: 3_ג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), עליונים (Upper worlds), בריאה (Creation), עולם (World) (+29 more)
+Words: 2650, Chunks: 12
+
+ID: 3_טו
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), אצילות (Emanation), בריאה (Creation), יצירה (Formation) (+27 more)
+Words: 2109, Chunks: 9
+
+ID: 3_כה
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), גילוי (Revelation), העלם (Concealment), בריאה (Creation), עולם (World), נצח (Eternity), דוד (David), ישראל (Israel), מקדש (Temple) (+14 more)
+Words: 1714, Chunks: 7
+
+ID: 3_לג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), עליונים (Upper worlds), אצילות (Emanation), עולם (World), עולמות (Worlds), צדיקים (Righteous ones) (+17 more)
+Words: 1539, Chunks: 7
+
+ID: 3_מא
+Date: יו"ד שבט, ה'תשכ"ט
+Opening: N/A
+Topics: שכינה (Shechinah/Divine Presence), אלקות (Divinity), אור (Light), אור א"ס (Infinite Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), תחתונים (Lower worlds) (+41 more)
+Words: 3979, Chunks: 18
+
+ID: 3_נז
+Date: N/A
+Opening: N/A
+Topics: שכינה (Shechinah/Divine Presence), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), אצילות (Emanation), עולם (World), חכמה (Wisdom) (+28 more)
+Words: 1623, Chunks: 7
+
+ID: 3_סז
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), עליונים (Upper worlds), אצילות (Emanation), עולם (World) (+30 more)
+Words: 3204, Chunks: 14
+
+ID: 3_פא
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), תחתונים (Lower worlds), עליונים (Upper worlds), בריאה (Creation) (+15 more)
+Words: 2083, Chunks: 9
+
+ID: 3_צא
+Date: N/A
+Opening: N/A
+Topics: אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), תחתונים (Lower worlds), בריאה (Creation), עולם (World), עולמות (Worlds), חסד (Kindness), צדיקים (Righteous ones) (+18 more)
+Words: 1297, Chunks: 6
+
+ID: 3_צט
+Date: N/A
+Opening: N/A
+Topics: שכינה (Shechinah/Divine Presence), אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), תחתונים (Lower worlds), אצילות (Emanation), עולם (World), מלכות (Kingship) (+26 more)
+Words: 3558, Chunks: 15
+
+ID: 3_קיג
+Date: N/A
+Opening: N/A
+Topics: אור (Light), גילוי (Revelation), ישראל (Israel), מצוות (Commandments), מצוה (Commandment), תורה (Torah), גלות (Exile), גאולה (Redemption), משיח (Messiah), דור (Generation) (+4 more)
+Words: 781, Chunks: 3
+
+ID: 3_קיט
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), בריאה (Creation), עולם (World), עולמות (Worlds) (+23 more)
+Words: 1367, Chunks: 6
+
+ID: 3_קכז
+Date: N/A
+Opening: N/A
+Topics: אור (Light), גילוי (Revelation), עולם (World), נצח (Eternity), יעקב (Jacob), משה (Moses), ישראל (Israel), מצוה (Commandment), תורה (Torah), גאולה (Redemption) (+5 more)
+Words: 651, Chunks: 3
+
+ID: 3_קלג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), עליונים (Upper worlds), אצילות (Emanation), יצירה (Formation) (+28 more)
+Words: 1389, Chunks: 6
+
+ID: 3_קמג
+Date: N/A
+Opening: N/A
+Topics: שכינה (Shechinah/Divine Presence), אלקות (Divinity), אור (Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), עליונים (Upper worlds), אצילות (Emanation), מלכות (Kingship) (+34 more)
+Words: 1264, Chunks: 6
+
+ID: 3_קנא
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), חכמה (Wisdom), דעת (Knowledge), יעקב (Jacob), משה (Moses) (+23 more)
+Words: 1605, Chunks: 8
+
+ID: 3_קנח
+Date: N/A
+Opening: N/A
+Topics: N/A
+Words: 0, Chunks: 0
+
+ID: 3_קסג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), תחתונים (Lower worlds), אצילות (Emanation), בריאה (Creation) (+23 more)
+Words: 2156, Chunks: 10
+
+ID: 3_קעא
+Date: N/A
+Opening: N/A
+Topics: N/A
+Words: 0, Chunks: 0
+
+ID: 3_קעה
+Date: N/A
+Opening: N/A
+Topics: אור (Light), עצמות (Essence), גילוי (Revelation), בריאה (Creation), עולם (World), מלכות (Kingship), דעת (Knowledge), חסד (Kindness), הוד (Splendor), צדיקים (Righteous ones) (+22 more)
+Words: 2014, Chunks: 9
+
+ID: 3_קפה
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), אצילות (Emanation), בריאה (Creation), עולם (World), דעת (Knowledge), חסד (Kindness) (+24 more)
+Words: 1524, Chunks: 7
+
+ID: 3_קצג
+Date: N/A
+Opening: N/A
+Topics: אור (Light), אוא"ס (Infinite Light), גילוי (Revelation), תחתונים (Lower worlds), עולם (World), מלכות (Kingship), חכמה (Wisdom), דעת (Knowledge), יעקב (Jacob), משה (Moses) (+14 more)
+Words: 1360, Chunks: 6
+
+ID: 3_רא
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אור א"ס (Infinite Light), גילוי (Revelation), צמצום (Contraction), תחתונים (Lower worlds), עליונים (Upper worlds), בריאה (Creation), עולם (World), עולמות (Worlds) (+21 more)
+Words: 1954, Chunks: 9
+
+ID: 3_ריא
+Date: N/A
+Opening: N/A
+Topics: אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), עולם (World), עולמות (Worlds), חכמה (Wisdom), בינה (Understanding), הוד (Splendor) (+17 more)
+Words: 1728, Chunks: 7
+
+ID: 3_רכא
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), אצילות (Emanation), בריאה (Creation), עולמות (Worlds) (+21 more)
+Words: 1903, Chunks: 8
+
+ID: 3_רלא
+Date: N/A
+Opening: N/A
+Topics: שכינה (Shechinah/Divine Presence), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), תחתונים (Lower worlds), עולם (World), עולמות (Worlds), מלכות (Kingship), דעת (Knowledge) (+18 more)
+Words: 2124, Chunks: 9
+
+ID: 3_רמא
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), אצילות (Emanation), בריאה (Creation), עולם (World), עולמות (Worlds) (+25 more)
+Words: 2317, Chunks: 10
+
+ID: 3_רנג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), בריאה (Creation), עולם (World), עולמות (Worlds), מלכות (Kingship) (+22 more)
+Words: 1672, Chunks: 7
+
+ID: 3_רסג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), אצילות (Emanation), עולם (World), עולמות (Worlds), מלכות (Kingship), חכמה (Wisdom) (+21 more)
+Words: 1865, Chunks: 8
+
+ID: 3_רעג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), תחתונים (Lower worlds), עליונים (Upper worlds), אצילות (Emanation) (+25 more)
+Words: 1381, Chunks: 6
+
+ID: 3_רפא
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), עליונים (Upper worlds), אצילות (Emanation), בריאה (Creation) (+27 more)
+Words: 2762, Chunks: 12
+
+ID: 3_רצג
+Date: N/A
+Opening: N/A
+Topics: אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), בריאה (Creation), עולם (World), עולמות (Worlds), מלכות (Kingship) (+21 more)
+Words: 1944, Chunks: 9
+
+ID: 4_ג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), תחתונים (Lower worlds), עליונים (Upper worlds), עולם (World) (+22 more)
+Words: 1923, Chunks: 8
+
+ID: 4_יג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), צמצום (Contraction), תחתונים (Lower worlds), בריאה (Creation), עולם (World), עולמות (Worlds) (+28 more)
+Words: 2111, Chunks: 9
+
+ID: 4_כג
+Date: N/A
+Opening: N/A
+Topics: אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), עולם (World), עולמות (Worlds), מלכות (Kingship), דעת (Knowledge) (+22 more)
+Words: 2010, Chunks: 9
+
+ID: 4_לג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), תחתונים (Lower worlds), עליונים (Upper worlds), אצילות (Emanation) (+28 more)
+Words: 2159, Chunks: 10
+
+ID: 4_מג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), עולם (World), עולמות (Worlds), חכמה (Wisdom), דעת (Knowledge), חסד (Kindness) (+21 more)
+Words: 2315, Chunks: 10
+
+ID: 4_נג
+Date: N/A
+Opening: N/A
+Topics: אור (Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), חכמה (Wisdom), דעת (Knowledge), חסד (Kindness), גבורה (Severity), ספירות (Sefirot), אברהם (Abraham) (+16 more)
+Words: 1774, Chunks: 8
+
+ID: 4_סג
+Date: N/A
+Opening: N/A
+Topics: אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), עליונים (Upper worlds), אצילות (Emanation), בריאה (Creation), יצירה (Formation) (+21 more)
+Words: 1102, Chunks: 5
+
+ID: 4_סט
+Date: N/A
+Opening: N/A
+Topics: אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), עולם (World), עולמות (Worlds), בינה (Understanding), אברהם (Abraham) (+15 more)
+Words: 2003, Chunks: 8
+
+ID: 4_עט
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), צמצום (Contraction), תחתונים (Lower worlds), עליונים (Upper worlds), אצילות (Emanation), בריאה (Creation) (+25 more)
+Words: 1514, Chunks: 7
+
+ID: 4_פט
+Date: N/A
+Opening: N/A
+Topics: אור (Light), גילוי (Revelation), העלם (Concealment), עולם (World), מלכות (Kingship), דעת (Knowledge), נצח (Eternity), הוד (Splendor), צדיקים (Righteous ones), צדיק (Righteous one) (+23 more)
+Words: 1742, Chunks: 8
+
+ID: 4_צט
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), צמצום (Contraction), תחתונים (Lower worlds), עולם (World), מלכות (Kingship), בינה (Understanding) (+25 more)
+Words: 1650, Chunks: 7
+
+ID: 4_קט
+Date: N/A
+Opening: N/A
+Topics: אור (Light), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), עליונים (Upper worlds), מלכות (Kingship), חכמה (Wisdom), בינה (Understanding), הוד (Splendor), יעקב (Jacob) (+19 more)
+Words: 1242, Chunks: 6
+
+ID: 4_קיז
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), עולם (World), מלכות (Kingship), חכמה (Wisdom), נצח (Eternity) (+15 more)
+Words: 1166, Chunks: 5
+
+ID: 4_קכה
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), עולם (World), מלכות (Kingship), חכמה (Wisdom), הוד (Splendor) (+24 more)
+Words: 1677, Chunks: 8
+
+ID: 4_קלה
+Date: N/A
+Opening: N/A
+Topics: שכינה (Shechinah/Divine Presence), אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), עליונים (Upper worlds), אצילות (Emanation) (+43 more)
+Words: 4945, Chunks: 22
+
+ID: 4_קנה
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), תחתונים (Lower worlds), עליונים (Upper worlds), אצילות (Emanation) (+18 more)
+Words: 1393, Chunks: 6
+
+ID: 4_קסא
+Date: N/A
+Opening: N/A
+Topics: N/A
+Words: 0, Chunks: 0
+
+ID: 4_קעז
+Date: N/A
+Opening: N/A
+Topics: אור (Light), עצמות (Essence), גילוי (Revelation), עולם (World), חכמה (Wisdom), דעת (Knowledge), ישראל (Israel), מצוות (Commandments), תורה (Torah), תלמוד (Talmud) (+11 more)
+Words: 938, Chunks: 5
+
+ID: 4_קפג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), עולם (World), עולמות (Worlds), מלכות (Kingship) (+18 more)
+Words: 1908, Chunks: 8
+
+ID: 4_קצג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), בריאה (Creation), עולם (World), עולמות (Worlds) (+20 more)
+Words: 2020, Chunks: 9
+
+ID: 4_רג
+Date: N/A
+Opening: N/A
+Topics: אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), תחתונים (Lower worlds), עולם (World), עולמות (Worlds), דעת (Knowledge) (+25 more)
+Words: 1880, Chunks: 8
+
+ID: 4_ריג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), אצילות (Emanation), בריאה (Creation), יצירה (Formation), עשיה (Action) (+24 more)
+Words: 2692, Chunks: 11
+
+ID: 4_רכה
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), אצילות (Emanation), בריאה (Creation), עולם (World) (+25 more)
+Words: 2709, Chunks: 12
+
+ID: 4_רלז
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), גילוי (Revelation), תחתונים (Lower worlds), עולם (World), עולמות (Worlds), דעת (Knowledge), תפארת (Beauty), יסוד (Foundation), צדיקים (Righteous ones) (+13 more)
+Words: 1095, Chunks: 5
+
+ID: 4_רמה
+Date: N/A
+Opening: N/A
+Topics: אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), עליונים (Upper worlds), אצילות (Emanation), עולמות (Worlds), מלכות (Kingship), חכמה (Wisdom), צדיקים (Righteous ones) (+11 more)
+Words: 1118, Chunks: 5
+
+ID: 4_רנא
+Date: N/A
+Opening: N/A
+Topics: אור (Light), אור א"ס (Infinite Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), תחתונים (Lower worlds), עולם (World), חכמה (Wisdom), דעת (Knowledge), נצח (Eternity) (+17 more)
+Words: 1462, Chunks: 7
+
+ID: 4_רנט
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), עליונים (Upper worlds), עולם (World), עולמות (Worlds), מלכות (Kingship) (+22 more)
+Words: 2577, Chunks: 11
+
+ID: 4_רעא
+Date: N/A
+Opening: N/A
+Topics: אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), עליונים (Upper worlds), בריאה (Creation), עולם (World), מלכות (Kingship), חכמה (Wisdom) (+20 more)
+Words: 2368, Chunks: 10
+
+ID: 4_רפג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), עולם (World), מלכות (Kingship), צדיקים (Righteous ones), צדיק (Righteous one) (+19 more)
+Words: 1127, Chunks: 6
+
+ID: 4_רצא
+Date: N/A
+Opening: N/A
+Topics: אור (Light), אצילות (Emanation), בריאה (Creation), יצירה (Formation), עולם (World), מלכות (Kingship), דעת (Knowledge), חסד (Kindness), צדיק (Righteous one), אהרן (Aaron) (+12 more)
+Words: 1877, Chunks: 8
+
+ID: 4_רצט
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), גילוי (Revelation), מלכות (Kingship), צדיקים (Righteous ones), צדיק (Righteous one), משה (Moses), ישראל (Israel), מצוות (Commandments), מצוה (Commandment) (+12 more)
+Words: 1382, Chunks: 6
+
+ID: 4_שז
+Date: N/A
+Opening: N/A
+Topics: שכינה (Shechinah/Divine Presence), אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), גילוי (Revelation), העלם (Concealment), אצילות (Emanation), בריאה (Creation), עולם (World), מלכות (Kingship) (+24 more)
+Words: 2839, Chunks: 12
+
+ID: 4_שכא
+Date: N/A
+Opening: N/A
+Topics: שכינה (Shechinah/Divine Presence), אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), תחתונים (Lower worlds), בריאה (Creation), עולם (World), מלכות (Kingship) (+34 more)
+Words: 2620, Chunks: 12
+
+ID: 4_שלג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), אצילות (Emanation), בריאה (Creation), עולם (World) (+33 more)
+Words: 3170, Chunks: 13
+
+ID: 4_שמז
+Date: N/A
+Opening: N/A
+Topics: אור (Light), גילוי (Revelation), העלם (Concealment), מלכות (Kingship), דעת (Knowledge), חסד (Kindness), נצח (Eternity), צדיקים (Righteous ones), צדיק (Righteous one), משה (Moses) (+19 more)
+Words: 1596, Chunks: 7
+
+ID: 4_שנה
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), גילוי (Revelation), עולם (World), עולמות (Worlds), מלכות (Kingship), חכמה (Wisdom), בינה (Understanding), דעת (Knowledge) (+20 more)
+Words: 1470, Chunks: 6
+
+ID: 4_שסג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אור א"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), בריאה (Creation), עולם (World), מלכות (Kingship), דעת (Knowledge) (+18 more)
+Words: 1835, Chunks: 8
+
+ID: 4_שעא
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), בריאה (Creation), יצירה (Formation), עולם (World), עולמות (Worlds), בינה (Understanding) (+26 more)
+Words: 2930, Chunks: 12
+
+ID: 4_שפג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אור א"ס (Infinite Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), תחתונים (Lower worlds), עליונים (Upper worlds) (+22 more)
+Words: 2695, Chunks: 12
+
+ID: 5_ג
+Date: N/A
+Opening: N/A
+Topics: אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), צמצום (Contraction), תחתונים (Lower worlds), אצילות (Emanation), בריאה (Creation), עולם (World), עולמות (Worlds) (+26 more)
+Words: 2603, Chunks: 11
+
+ID: 5_טו
+Date: N/A
+Opening: N/A
+Topics: אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), עליונים (Upper worlds), בריאה (Creation), עולם (World), עולמות (Worlds), מלכות (Kingship) (+24 more)
+Words: 2363, Chunks: 10
+
+ID: 5_כז
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), עליונים (Upper worlds), אצילות (Emanation), בריאה (Creation) (+41 more)
+Words: 2513, Chunks: 12
+
+ID: 5_לז
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), אצילות (Emanation), עולם (World), דעת (Knowledge) (+14 more)
+Words: 2208, Chunks: 9
+
+ID: 5_מז
+Date: N/A
+Opening: N/A
+Topics: אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), עליונים (Upper worlds), עולם (World), עולמות (Worlds), מלכות (Kingship) (+23 more)
+Words: 1366, Chunks: 6
+
+ID: 5_נה
+Date: N/A
+Opening: N/A
+Topics: אור (Light), גילוי (Revelation), העלם (Concealment), מלכות (Kingship), חכמה (Wisdom), בינה (Understanding), דעת (Knowledge), ספירות (Sefirot), צדיקים (Righteous ones), צדיק (Righteous one) (+17 more)
+Words: 1791, Chunks: 8
+
+ID: 5_סה
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), יצירה (Formation), עולם (World), מלכות (Kingship) (+24 more)
+Words: 1619, Chunks: 7
+
+ID: 5_עג
+Date: N/A
+Opening: N/A
+Topics: אור (Light), עצמות (Essence), צמצום (Contraction), אצילות (Emanation), עולם (World), מלכות (Kingship), בינה (Understanding), דעת (Knowledge), חסד (Kindness), גבורה (Severity) (+22 more)
+Words: 1738, Chunks: 7
+
+ID: 5_פג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), עולם (World), דעת (Knowledge), נצח (Eternity), צדיקים (Righteous ones), צדיק (Righteous one) (+27 more)
+Words: 2420, Chunks: 11
+
+ID: 5_צג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), עולם (World), מלכות (Kingship), חכמה (Wisdom), בינה (Understanding), דעת (Knowledge) (+27 more)
+Words: 2409, Chunks: 10
+
+ID: 5_קה
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אור א"ס (Infinite Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), תחתונים (Lower worlds), אצילות (Emanation) (+22 more)
+Words: 2362, Chunks: 10
+
+ID: 5_קטו
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), אצילות (Emanation), בריאה (Creation), עולם (World), עולמות (Worlds) (+23 more)
+Words: 2564, Chunks: 11
+
+ID: 5_קכז
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אור א"ס (Infinite Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), אצילות (Emanation), בריאה (Creation), יצירה (Formation) (+26 more)
+Words: 2449, Chunks: 11
+
+ID: 5_קלז
+Date: N/A
+Opening: N/A
+Topics: שכינה (Shechinah/Divine Presence), אלקות (Divinity), אור (Light), אור א"ס (Infinite Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), תחתונים (Lower worlds) (+32 more)
+Words: 2648, Chunks: 11
+
+ID: 5_קמט
+Date: N/A
+Opening: N/A
+Topics: שכינה (Shechinah/Divine Presence), אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), תחתונים (Lower worlds), עליונים (Upper worlds) (+42 more)
+Words: 4927, Chunks: 20
+
+ID: 5_קסט
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), גילוי (Revelation), תחתונים (Lower worlds), עליונים (Upper worlds), עולם (World), עולמות (Worlds), מלכות (Kingship), דעת (Knowledge), תפארת (Beauty) (+21 more)
+Words: 2168, Chunks: 9
+
+ID: 5_קעט
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), תחתונים (Lower worlds), עולם (World), חכמה (Wisdom), חסד (Kindness), משה (Moses) (+23 more)
+Words: 2115, Chunks: 9
+
+ID: 5_קפט
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), עליונים (Upper worlds), עולמות (Worlds), חכמה (Wisdom) (+24 more)
+Words: 1893, Chunks: 8
+
+ID: 5_קצט
+Date: N/A
+Opening: N/A
+Topics: שכינה (Shechinah/Divine Presence), אלקות (Divinity), אור (Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), עולם (World), עולמות (Worlds), מלכות (Kingship) (+25 more)
+Words: 2101, Chunks: 9
+
+ID: 5_רט
+Date: N/A
+Opening: N/A
+Topics: שכינה (Shechinah/Divine Presence), אור (Light), עצמות (Essence), גילוי (Revelation), יצירה (Formation), מלכות (Kingship), חכמה (Wisdom), בינה (Understanding), חסד (Kindness), הוד (Splendor) (+17 more)
+Words: 1918, Chunks: 8
+
+ID: 5_ריז
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), תחתונים (Lower worlds), עליונים (Upper worlds), בריאה (Creation), יצירה (Formation) (+30 more)
+Words: 4295, Chunks: 17
+
+ID: 5_רלג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), גילוי (Revelation), אצילות (Emanation), בריאה (Creation), יצירה (Formation), עשיה (Action), עולם (World), עולמות (Worlds), בינה (Understanding) (+23 more)
+Words: 1672, Chunks: 7
+
+ID: 5_רמג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), אצילות (Emanation), בריאה (Creation), עולם (World), מלכות (Kingship) (+25 more)
+Words: 3398, Chunks: 15
+
+ID: 5_רנ
+Date: N/A
+Opening: N/A
+Topics: שכינה (Shechinah/Divine Presence), אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), תחתונים (Lower worlds), עליונים (Upper worlds), עולם (World), עולמות (Worlds) (+34 more)
+Words: 3179, Chunks: 14
+
+ID: 5_רעא
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), תחתונים (Lower worlds), עליונים (Upper worlds), אצילות (Emanation), בריאה (Creation) (+31 more)
+Words: 2211, Chunks: 10
+
+ID: 5_רפא
+Date: N/A
+Opening: N/A
+Topics: אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), תחתונים (Lower worlds), עליונים (Upper worlds), אצילות (Emanation), בריאה (Creation) (+36 more)
+Words: 3349, Chunks: 15
+
+ID: 5_רצה
+Date: N/A
+Opening: N/A
+Topics: N/A
+Words: 0, Chunks: 0
+
+ID: 5_שה
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), עולם (World), עולמות (Worlds), חסד (Kindness) (+17 more)
+Words: 2353, Chunks: 11
+
+ID: 5_שטו
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), תחתונים (Lower worlds), עליונים (Upper worlds), אצילות (Emanation) (+33 more)
+Words: 3892, Chunks: 16
+
+ID: 5_שכט
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), תחתונים (Lower worlds), בריאה (Creation), עולם (World) (+20 more)
+Words: 2598, Chunks: 11
+
+ID: 5_שמא
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), גילוי (Revelation), העלם (Concealment), עולם (World), עולמות (Worlds), מלכות (Kingship), בינה (Understanding), ספירות (Sefirot) (+25 more)
+Words: 1703, Chunks: 7
+
+ID: 6_ג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), בריאה (Creation), עולם (World), עולמות (Worlds), חכמה (Wisdom), חסד (Kindness) (+16 more)
+Words: 2014, Chunks: 9
+
+ID: 6_יג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), תחתונים (Lower worlds), אצילות (Emanation), בריאה (Creation) (+26 more)
+Words: 2037, Chunks: 9
+
+ID: 6_כג
+Date: N/A
+Opening: N/A
+Topics: אור (Light), אור א"ס (Infinite Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), תחתונים (Lower worlds), בריאה (Creation), עולמות (Worlds) (+21 more)
+Words: 1879, Chunks: 8
+
+ID: 6_לג
+Date: N/A
+Opening: N/A
+Topics: שכינה (Shechinah/Divine Presence), אלקות (Divinity), אור (Light), אור א"ס (Infinite Light), גילוי (Revelation), העלם (Concealment), עולם (World), עולמות (Worlds), מלכות (Kingship), דעת (Knowledge) (+26 more)
+Words: 2541, Chunks: 11
+
+ID: 6_מה
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), אצילות (Emanation), עולם (World), עולמות (Worlds), מלכות (Kingship) (+30 more)
+Words: 3812, Chunks: 16
+
+ID: 6_נז
+Date: N/A
+Opening: N/A
+Topics: אור (Light), גילוי (Revelation), תחתונים (Lower worlds), עולם (World), חסד (Kindness), נצח (Eternity), ספירות (Sefirot), דוד (David), ישראל (Israel), קרבנות (Sacrifices) (+17 more)
+Words: 1050, Chunks: 5
+
+ID: 6_סג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), עולם (World), עולמות (Worlds), מלכות (Kingship), דעת (Knowledge) (+23 more)
+Words: 3486, Chunks: 15
+
+ID: 6_עז
+Date: N/A
+Opening: N/A
+Topics: אור (Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), אצילות (Emanation), עולם (World), עולמות (Worlds), מלכות (Kingship), חכמה (Wisdom), נצח (Eternity) (+23 more)
+Words: 2498, Chunks: 10
+
+ID: 6_פט
+Date: יו"ד שבט, ה'תשל"ב
+Opening: N/A
+Topics: שכינה (Shechinah/Divine Presence), אלקות (Divinity), אור (Light), אור א"ס (Infinite Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), תחתונים (Lower worlds) (+41 more)
+Words: 3192, Chunks: 14
+
+ID: 6_קג
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), צמצום (Contraction), אצילות (Emanation), בריאה (Creation), יצירה (Formation) (+28 more)
+Words: 2847, Chunks: 12
+
+ID: 6_קיג
+Date: N/A
+Opening: N/A
+Topics: N/A
+Words: 0, Chunks: 0
+
+ID: 6_קכט
+Date: N/A
+Opening: N/A
+Topics: אלקות (Divinity), אור (Light), אוא"ס (Infinite Light), עצמות (Essence), גילוי (Revelation), העלם (Concealment), עולם (World), בינה (Understanding), דעת (Knowledge), הוד (Splendor) (+26 more)
+Words: 2989, Chunks: 13
 
 TOP TOPICS:
 ---------------
-מלכות: 106 documents
-דעת: 101 documents
-תחתונים: 81 documents
-בריאה: 79 documents
-משה: 79 documents
-צדיקים: 78 documents
-חכמה: 74 documents
-מקדש: 61 documents
-אצילות: 59 documents
-בינה: 51 documents
-אברהם: 47 documents
-עליונים: 44 documents
-שכינה: 36 documents
-משכן: 30 documents
-קרבנות: 25 documents
+אור (Light): 188 documents
+גילוי (Revelation): 181 documents
+תורה (Torah): 181 documents
+ישראל (Israel): 179 documents
+עולם (World): 168 documents
+עבודה (Service): 167 documents
+המשכה (Drawing down): 153 documents
+כוונה (Intention): 145 documents
+תכלית (Purpose): 143 documents
+משיח (Messiah): 139 documents
+עצמות (Essence): 137 documents
+מצוות (Commandments): 137 documents
+רצון (Will): 136 documents
+אלקות (Divinity): 130 documents
+דור (Generation): 130 documents
 
 TOP CONCEPTS:
 ---------------
-Kingship: 106 documents
-Knowledge: 101 documents
-Lower worlds: 81 documents
-Creation: 79 documents
-Moses: 79 documents
-Righteous ones: 78 documents
-Wisdom: 74 documents
-Temple: 61 documents
-Emanation: 59 documents
-Understanding: 51 documents
-Abraham: 47 documents
-Upper worlds: 44 documents
-Shechinah/Divine Presence: 36 documents
-Tabernacle: 30 documents
-Sacrifices: 25 documents
+Light: 188 documents
+Revelation: 181 documents
+Torah: 181 documents
+Israel: 179 documents
+World: 168 documents
+Service: 167 documents
+Drawing down: 153 documents
+Intention: 145 documents
+Purpose: 143 documents
+Messiah: 139 documents
+Essence: 137 documents
+Commandments: 137 documents
+Will: 136 documents
+Infinite Light: 133 documents
+Divinity: 130 documents
