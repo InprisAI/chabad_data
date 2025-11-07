@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Allow access to JSON data files
+Allow: /maamarim_structured.json
+Allow: /maamarim_quick_reference.txt
+
+# Sitemap location (if you create one later)
+# Sitemap: https://nisyron.github.io/chabad_data/sitemap.xml
+

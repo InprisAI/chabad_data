@@ -5,6 +5,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Maamarim Collection - Chassidic Discourses</title>
     <meta name="description" content="Collection of 195 Chassidic discourses (Maamarim) from 1941-1968 with Hebrew text, footnotes, and comprehensive metadata. Optimized for LLM search.">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Dataset",
+      "name": "Maamarim Collection - Chassidic Discourses",
+      "description": "Collection of 195 Chassidic discourses (Maamarim) from 1941-1968 with Hebrew text, footnotes, and comprehensive metadata",
+      "url": "https://nisyron.github.io/chabad_data/",
+      "distribution": {
+        "@type": "DataDownload",
+        "contentUrl": "https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_structured.json",
+        "encodingFormat": "application/json"
+      },
+      "keywords": ["Chassidic", "Maamarim", "Hebrew", "Judaism", "Chabad", "שכינה", "צדיקים", "באתי לגני"],
+      "temporalCoverage": "1941/1968",
+      "inLanguage": ["he", "en", "yi"]
+    }
+    </script>
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
@@ -72,6 +89,25 @@
             margin: 20px 0;
             border-radius: 5px;
         }
+        .perplexity-box {
+            background: #e7f3ff;
+            border-left: 4px solid #2196F3;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 5px;
+        }
+        .perplexity-box code {
+            background: #fff;
+            padding: 4px 8px;
+            border-radius: 3px;
+            display: block;
+            margin: 10px 0;
+            word-break: break-all;
+        }
+        .perplexity-box strong {
+            color: #1976D2;
+            font-size: 1.1em;
+        }
         code {
             background: #f4f4f4;
             padding: 2px 6px;
@@ -87,9 +123,15 @@
     <div class="container">
         <h1>📚 Maamarim Collection - Chassidic Discourses</h1>
         
-        <div class="info-box">
-            <strong>For LLM Search (Perplexity, Claude, etc.):</strong>
-            <p>This collection contains structured JSON data optimized for semantic search. Use the links below to access the data files directly.</p>
+        <div class="perplexity-box">
+            <strong>🔍 For Perplexity and Other LLMs:</strong>
+            <p><strong>IMPORTANT:</strong> Perplexity needs direct access to the JSON file, not this HTML page. Use this URL in your Perplexity query:</p>
+            <code>https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_structured.json</code>
+            <p><strong>Example Perplexity Query:</strong></p>
+            <p style="background: white; padding: 10px; border-radius: 5px; margin-top: 10px;">
+                "Search in https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_structured.json for documents containing 'באתי לגני' (Bati leGani)"
+            </p>
+            <p style="margin-top: 15px;"><strong>Why this URL?</strong> The raw GitHub URL gives Perplexity direct access to the structured JSON data, allowing it to search through all 195 documents, metadata, topics, and text chunks.</p>
         </div>
 
         <div class="stats">
@@ -114,7 +156,6 @@
         <h2>📥 Data Files</h2>
         <div class="links">
             <a href="maamarim_structured.json">Main JSON File</a>
-            <a href="maamarim_search_index.json">Search Index</a>
             <a href="maamarim_quick_reference.txt">Quick Reference</a>
         </div>
 
@@ -147,40 +188,53 @@
         <h2>🌐 Usage Instructions</h2>
         <p><strong>For Perplexity:</strong></p>
         <ol>
-            <li>Use the raw GitHub URL: <code>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/maamarim_structured.json</code></li>
-            <li>Or reference this page: <code>https://YOUR_USERNAME.github.io/YOUR_REPO/</code></li>
-            <li>Perplexity can search by:
+            <li><strong>Always use the raw GitHub URL:</strong> <code>https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_structured.json</code></li>
+            <li><strong>Include the URL in your query:</strong> "Search in [URL] for..."</li>
+            <li><strong>Perplexity can search by:</strong>
                 <ul>
                     <li>Hebrew topics (שכינה, צדיקים)</li>
                     <li>English concepts (Divine Presence, Righteous ones)</li>
                     <li>Dates (1951, תשי"א)</li>
                     <li>References (biblical, talmudic citations)</li>
-                    <li>Opening phrases</li>
+                    <li>Opening phrases (באתי לגני)</li>
+                    <li>Document IDs (1_ג, 1_יג)</li>
+                </ul>
+            </li>
+            <li><strong>Search fields:</strong> The JSON has these searchable fields:
+                <ul>
+                    <li><code>metadata.topics</code> - Hebrew topics array</li>
+                    <li><code>metadata.key_concepts</code> - English concepts</li>
+                    <li><code>metadata.opening_phrase</code> - Opening phrases</li>
+                    <li><code>content.main_text_chunks</code> - Searchable text chunks</li>
+                    <li><code>search_tags</code> - All search keywords</li>
                 </ul>
             </li>
         </ol>
 
-        <h2>📊 Example Queries</h2>
+        <h2>📊 Example Perplexity Queries</h2>
+        <p><strong>Copy and paste these queries into Perplexity:</strong></p>
         <ul>
-            <li>"What does the Rebbe say about שכינה (Divine Presence)?"</li>
-            <li>"Find maamarim from 1951 about צדיקים"</li>
-            <li>"Show me discussions of the Tabernacle (משכן)"</li>
-            <li>"What are the references to תניא in the collection?"</li>
+            <li>"Search in https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_structured.json for documents about שכינה (Divine Presence)"</li>
+            <li>"Find maamarim from 1951 in https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_structured.json about צדיקים"</li>
+            <li>"Show me discussions of the Tabernacle (משכן) in https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_structured.json"</li>
+            <li>"What documents contain 'באתי לגני' in https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_structured.json?"</li>
+            <li>"Search the metadata.opening_phrase field in https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_structured.json for 'באתי לגני אחותי כלה'"</li>
         </ul>
 
         <h2>📝 File Formats</h2>
         <ul>
-            <li><strong>maamarim_structured.json</strong> (11.58 MB) - Complete structured data with all content</li>
-            <li><strong>maamarim_search_index.json</strong> - Fast lookup indexes by topic, date, concept, reference</li>
+            <li><strong>maamarim_structured.json</strong> - Complete structured data with all content</li>
             <li><strong>maamarim_quick_reference.txt</strong> - Human-readable overview</li>
         </ul>
 
-        <h2>🔗 GitHub Raw URLs</h2>
-        <p>Replace <code>YOUR_USERNAME</code> and <code>YOUR_REPO</code> with your actual GitHub details:</p>
+        <h2>🔗 Direct Data URLs</h2>
+        <p><strong>For Perplexity and LLMs (use these URLs):</strong></p>
         <ul>
-            <li>Main file: <code>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/maamarim_structured.json</code></li>
-            <li>Index: <code>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/maamarim_search_index.json</code></li>
+            <li><strong>Main JSON File:</strong> <code>https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_structured.json</code></li>
+            <li><strong>Quick Reference:</strong> <code>https://raw.githubusercontent.com/nisyron/chabad_data/main/maamarim_quick_reference.txt</code></li>
         </ul>
+        <p><strong>GitHub Pages URL (this page):</strong> <code>https://nisyron.github.io/chabad_data/</code></p>
+        <p style="color: #d32f2f; font-weight: bold;">⚠️ Note: For Perplexity searches, always use the raw GitHub URLs above, not the GitHub Pages URL.</p>
     </div>
 </body>
 </html>
