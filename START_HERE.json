@@ -1,0 +1,162 @@
+{
+  "dataset_name": "Chabad Maamarim Collection",
+  "description": "1,067 Chassidic discourses (Maamarim) from Chabad Rebbes",
+  "total_documents": 1067,
+  "how_to_use": {
+    "step_1": "This file is your entry point - it's small enough for LLMs to fetch",
+    "step_2": "Browse available chunks below to find relevant topics",
+    "step_3": "Fetch specific chunk files (each ~600KB) from the URLs provided",
+    "step_4": "Search within chunks for specific content"
+  },
+  "base_url": "https://raw.githubusercontent.com/InprisAI/chabad_data/main",
+  "chunk_files": [
+    {
+      "file": "maamarim_chunks/maamarim_chunk_01.json",
+      "url": "https://raw.githubusercontent.com/InprisAI/chabad_data/main/maamarim_chunks/maamarim_chunk_01.json",
+      "documents": 53,
+      "topics": ["באתי לגני", "ביום השמיני", "ד\"ה באתי לגני", "תרכ\"ט"]
+    },
+    {
+      "file": "maamarim_chunks/maamarim_chunk_02.json",
+      "url": "https://raw.githubusercontent.com/InprisAI/chabad_data/main/maamarim_chunks/maamarim_chunk_02.json",
+      "documents": 53,
+      "topics": ["ד\"ה ואתה תצוה", "שמות", "ליקוטי תורה"]
+    },
+    {
+      "file": "maamarim_chunks/maamarim_chunk_03.json",
+      "url": "https://raw.githubusercontent.com/InprisAI/chabad_data/main/maamarim_chunks/maamarim_chunk_03.json",
+      "documents": 53,
+      "topics": ["תקון חצות", "פדיון הבן", "ד\"ה לכו חזו"]
+    },
+    {
+      "file": "maamarim_chunks/maamarim_chunk_04.json",
+      "url": "https://raw.githubusercontent.com/InprisAI/chabad_data/main/maamarim_chunks/maamarim_chunk_04.json",
+      "documents": 53,
+      "topics": ["ד\"ה והיה באחרית", "חנוכה", "ראש השנה"]
+    },
+    {
+      "file": "maamarim_chunks/maamarim_chunk_05.json",
+      "url": "https://raw.githubusercontent.com/InprisAI/chabad_data/main/maamarim_chunks/maamarim_chunk_05.json",
+      "documents": 54,
+      "topics": ["שבת", "פורים", "ד\"ה ויקהל"]
+    },
+    {
+      "file": "maamarim_chunks/maamarim_chunk_06.json",
+      "url": "https://raw.githubusercontent.com/InprisAI/chabad_data/main/maamarim_chunks/maamarim_chunk_06.json",
+      "documents": 53,
+      "topics": ["תרל\"ב", "ד\"ה והיה אם שמוע", "שופטים"]
+    },
+    {
+      "file": "maamarim_chunks/maamarim_chunk_07.json",
+      "url": "https://raw.githubusercontent.com/InprisAI/chabad_data/main/maamarim_chunks/maamarim_chunk_07.json",
+      "documents": 54,
+      "topics": ["תשרי", "עשרת ימי תשובה", "ד\"ה ואתחנן"]
+    },
+    {
+      "file": "maamarim_chunks/maamarim_chunk_08.json",
+      "url": "https://raw.githubusercontent.com/InprisAI/chabad_data/main/maamarim_chunks/maamarim_chunk_08.json",
+      "documents": 53,
+      "topics": ["יום טוב", "שבועות", "ד\"ה פדה בשלום"]
+    },
+    {
+      "file": "maamarim_chunks/maamarim_chunk_09.json",
+      "url": "https://raw.githubusercontent.com/InprisAI/chabad_data/main/maamarim_chunks/maamarim_chunk_09.json",
+      "documents": 54,
+      "topics": ["תרל\"ה", "ד\"ה כי תבא", "ליקוטי תורה"]
+    },
+    {
+      "file": "maamarim_chunks/maamarim_chunk_10.json",
+      "url": "https://raw.githubusercontent.com/InprisAI/chabad_data/main/maamarim_chunks/maamarim_chunk_10.json",
+      "documents": 53,
+      "topics": ["ד\"ה ויאמר ה'", "עקב", "תרל\"ג"]
+    },
+    {
+      "file": "maamarim_chunks/maamarim_chunk_11.json",
+      "url": "https://raw.githubusercontent.com/InprisAI/chabad_data/main/maamarim_chunks/maamarim_chunk_11.json",
+      "documents": 54,
+      "topics": ["סוכות", "שמחת תורה", "ד\"ה אתם נצבים"]
+    },
+    {
+      "file": "maamarim_chunks/maamarim_chunk_12.json",
+      "url": "https://raw.githubusercontent.com/InprisAI/chabad_data/main/maamarim_chunks/maamarim_chunk_12.json",
+      "documents": 53,
+      "topics": ["ד\"ה קרוב ה'", "אלול", "תרל\"ט"]
+    },
+    {
+      "file": "maamarim_chunks/maamarim_chunk_13.json",
+      "url": "https://raw.githubusercontent.com/InprisAI/chabad_data/main/maamarim_chunks/maamarim_chunk_13.json",
+      "documents": 54,
+      "topics": ["ד\"ה כי אתה אבינו", "חנוכה", "תרל\"ח"]
+    },
+    {
+      "file": "maamarim_chunks/maamarim_chunk_14.json",
+      "url": "https://raw.githubusercontent.com/InprisAI/chabad_data/main/maamarim_chunks/maamarim_chunk_14.json",
+      "documents": 53,
+      "topics": ["שמיני עצרת", "ד\"ה לכן יאמר", "נצבים וילך"]
+    },
+    {
+      "file": "maamarim_chunks/maamarim_chunk_15.json",
+      "url": "https://raw.githubusercontent.com/InprisAI/chabad_data/main/maamarim_chunks/maamarim_chunk_15.json",
+      "documents": 54,
+      "topics": ["ד\"ה באתי לגני", "תר\"ם", "שבת פרשת תצוה"]
+    },
+    {
+      "file": "maamarim_chunks/maamarim_chunk_16.json",
+      "url": "https://raw.githubusercontent.com/InprisAI/chabad_data/main/maamarim_chunks/maamarim_chunk_16.json",
+      "documents": 53,
+      "topics": ["ד\"ה לכו נעלה", "ר\"ח אלול", "שבת פרשת בהר"]
+    },
+    {
+      "file": "maamarim_chunks/maamarim_chunk_17.json",
+      "url": "https://raw.githubusercontent.com/InprisAI/chabad_data/main/maamarim_chunks/maamarim_chunk_17.json",
+      "documents": 54,
+      "topics": ["פסח", "שבת הגדול", "ד\"ה אני לדודי"]
+    },
+    {
+      "file": "maamarim_chunks/maamarim_chunk_18.json",
+      "url": "https://raw.githubusercontent.com/InprisAI/chabad_data/main/maamarim_chunks/maamarim_chunk_18.json",
+      "documents": 53,
+      "topics": ["יום ה' י\"ט כסלו", "חנוכה", "ד\"ה מצה זו"]
+    },
+    {
+      "file": "maamarim_chunks/maamarim_chunk_19.json",
+      "url": "https://raw.githubusercontent.com/InprisAI/chabad_data/main/maamarim_chunks/maamarim_chunk_19.json",
+      "documents": 54,
+      "topics": ["שמיני עצרת", "יום הכפורים", "ד\"ה והיה עקב"]
+    },
+    {
+      "file": "maamarim_chunks/maamarim_chunk_20.json",
+      "url": "https://raw.githubusercontent.com/InprisAI/chabad_data/main/maamarim_chunks/maamarim_chunk_20.json",
+      "documents": 53,
+      "topics": ["שבועות", "ד\"ה לך לך", "ראש השנה"]
+    }
+  ],
+  "other_files": {
+    "quick_reference": {
+      "url": "https://raw.githubusercontent.com/InprisAI/chabad_data/main/maamarim_quick_reference.txt",
+      "description": "Human-readable index of all documents (61KB)",
+      "size_kb": 61
+    },
+    "full_master_index": {
+      "url": "https://raw.githubusercontent.com/InprisAI/chabad_data/main/maamarim_master_index.json",
+      "description": "Complete searchable index with all metadata (2MB - may be too large for some LLMs)",
+      "size_mb": 2,
+      "warning": "This file may be too large for Perplexity to fetch directly"
+    }
+  },
+  "search_tips": {
+    "by_topic": "Check the 'topics' field in each chunk to find relevant content",
+    "by_date": "Look for year markers like 'תרל\"ב', 'תרכ\"ט', etc.",
+    "by_holiday": "Search for holidays like 'חנוכה', 'פורים', 'פסח', 'ראש השנה', etc.",
+    "by_parsha": "Find weekly Torah portions like 'ויקרא', 'בראשית', 'שמות', etc."
+  },
+  "example_queries": [
+    "To find 'באתי לגני' discourses: Fetch chunk 1 and 15",
+    "To find Chanukah content: Fetch chunks 4, 13, and 18",
+    "To find Rosh Hashanah material: Fetch chunks 4 and 20",
+    "To find Pesach (Passover) content: Fetch chunk 17"
+  ],
+  "github_repo": "https://github.com/InprisAI/chabad_data",
+  "last_updated": "2025-11-08"
+}
+
