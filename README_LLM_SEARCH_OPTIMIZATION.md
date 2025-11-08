@@ -1,5 +1,14 @@
 # Maamarim Collection - LLM Search Optimization
 
+## ⚠️ IMPORTANT: Perplexity Access Issues
+
+**If you're having trouble with Perplexity accessing this dataset**, see **[PERPLEXITY_WORKAROUND.md](./PERPLEXITY_WORKAROUND.md)** for solutions.
+
+**Quick Solutions:**
+- ✅ **Use GitHub Pages**: `https://inprisai.github.io/chabad_data/catalog.json` (enable GitHub Pages in Settings → Pages)
+- ✅ **Manual Lookup**: See [topic lookup table](./PERPLEXITY_WORKAROUND.md#solution-2-manual-topic-lookup-table)
+- ✅ **Web Interface**: Use `index.html` for browser-based search
+
 ## Overview
 
 This project transforms your `maamarim.txt` file into a structured, LLM-searchable format while preserving all original content and meaning. The optimization includes metadata extraction, intelligent chunking, and comprehensive indexing.
@@ -177,5 +186,6 @@ Your maamarim collection is now optimized for modern LLM search systems while pr
 - 📚 **Complete Preservation** - No content lost, all meaning maintained
 
 The collection is now ready for integration with any LLM-based search system and will provide significantly improved search performance and accuracy.
+
 
 
