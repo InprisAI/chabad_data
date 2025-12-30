@@ -3,24 +3,26 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.so
-.Python
+.env
+.venv
 env/
 venv/
 ENV/
-.venv
+env.bak/
+venv.bak/
 
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
+# Pickles and large data files
+*.pkl
+*.pkl.gz
+# Explicitly allow the main data file
+!2_maamarim_unified.pkl.gz
+!maamarim_unified.pkl.gz
 
-# OS
-.DS_Store
-Thumbs.db
+# ZIP files
+*.zip
 
-# Temporary files
-*.tmp
+# Logs
 *.log
 
+# Temporary files
+/tmp/
