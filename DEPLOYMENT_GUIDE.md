@@ -4,68 +4,77 @@
 
 | File | Description |
 |------|-------------|
+| `deploy.sh` | **Automated deployment script** (Recommended) |
 | `app.py` | Flask API application |
 | `search_maamar_with_openai.py` | Search logic with fuzzy matching |
 | `requirements.txt` | Python dependencies |
-| `2_maamarim_unified.pkl.gz` | Article database with embeddings (automatically renamed in Docker) |
+| `2_maamarim_unified.pkl.gz` | Article database |
 | `Dockerfile` | Docker container definition |
-| `create_pickle.py` | Script to regenerate data file (optional) |
+| `.dockerignore` | Build context exclusions |
 | `QUERY_GUIDE.md` | API usage documentation |
 
-## Quick Deploy to Google Cloud Run
+## Option 1: Automated Deployment (Recommended)
+
+The `deploy.sh` script handles API enabling, Artifact Registry creation, and deployment configuration automatically.
 
 ### 1. Prerequisites
+- Google Cloud CLI installed and authenticated
+- Bash terminal (Linux, macOS, or Git Bash on Windows)
+
+### 2. Set Environment Variables
+The script uses environment variables for configuration. Set them before running the script:
+
 ```bash
-# Install Google Cloud CLI
-# https://cloud.google.com/sdk/docs/install
+export OPENAI_API_KEY="your-openai-key"
+export HUMAINS_USERNAME="your-username"
+export HUMAINS_PASSWORD="your-password"
+export GROQ_API_KEY="your-groq-key" # Optional
+```
 
-# Login to your Google account
-gcloud auth login
+### 3. Run Deployment
+Choose the target environment (`dev` or `prod`):
 
-# Set your project
-gcloud config set project YOUR_PROJECT_ID
+```bash
+# Deploy to Development (Project: chabad-data-dev)
+./deploy.sh dev
+
+# Deploy to Production (Project: chabad-data-482813)
+./deploy.sh prod
+```
+
+## Option 2: Manual Deployment
+
+If you cannot use the script, run these commands manually (adjusting for Windows PowerShell if needed).
+
+### 1. Configuration
+```bash
+# Set your target project (dev or prod)
+gcloud config set project chabad-data-dev  # OR chabad-data-482813
 ```
 
 ### 2. Deploy
-```bash
-# Navigate to the extracted folder
-cd maamar-search
+This command matches the configuration in `deploy.sh` (2 CPU, 2Gi Memory, etc.).
 
-# Deploy to Cloud Run
-# Note: Replace placeholders with your actual keys
-gcloud run deploy maamar-search \
+```bash
+gcloud run deploy chabad-data-api \
   --source . \
   --region europe-west4 \
-  --allow-unauthenticated \
-  --memory 1Gi \
-  --set-env-vars "OPENAI_API_KEY=your-openai-key,HUMAINS_USERNAME=your-username,HUMAINS_PASSWORD=your-password,GROQ_API_KEY=your-groq-key,ENABLE_SEMANTIC_SEARCH=1"
+  --no-allow-unauthenticated \
+  --memory 2Gi \
+  --cpu 2 \
+  --max-instances 10 \
+  --timeout 3600 \
+  --set-env-vars "OPENAI_API_KEY=your-key,HUMAINS_USERNAME=your-user,HUMAINS_PASSWORD=your-pass,GROQ_API_KEY=your-key,ENABLE_SEMANTIC_SEARCH=1"
 ```
 
-### 3. Environment Variables
-
-| Variable | Description |
-|----------|-------------|
-| `OPENAI_API_KEY` | OpenAI API key (or Grok/xAI key if using compatible endpoint) |
-| `HUMAINS_USERNAME` | Humains service username (for injection) |
-| `HUMAINS_PASSWORD` | Humains service password (for injection) |
-| `GROQ_API_KEY` | Groq/xAI API Key for keyword extraction |
-| `ENABLE_SEMANTIC_SEARCH` | Set to `1` to enable semantic search features |
-
-## Local Development
+### 3. Allow Public Access
+After successful deployment, allow unauthenticated access:
 
 ```bash
-# Install dependencies
-pip install -r requirements.txt
-
-# Set environment variables
-export OPENAI_API_KEY=your-key
-export HUMAINS_USERNAME=your-username
-export HUMAINS_PASSWORD=your-password
-export GROQ_API_KEY=your-groq-key
-export ENABLE_SEMANTIC_SEARCH=1
-
-# Run locally
-python app.py
+gcloud run services add-iam-policy-binding chabad-data-api \
+  --region europe-west4 \
+  --member="allUsers" \
+  --role="roles/run.invoker"
 ```
 
 ## API Usage
@@ -82,5 +91,3 @@ POST /search
 Content-Type: application/json
 {"article": "באתי לגני", "quastion": "שכינה", "top_n": 5}
 ```
-
-See `QUERY_GUIDE.md` for more examples.
