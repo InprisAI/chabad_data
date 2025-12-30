@@ -1,0 +1,77 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Documentation (not needed in container)
+*.md
+!README.md
+
+# Deployment scripts (not needed in container)
+deploy.sh
+Dockerfile
+.dockerignore
+
+# Logs
+*.log
+
+# Temporary files
+/tmp/
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large data files that aren't needed (keep only the unified pickle)
+*.pkl
+*.pkl.gz
+!2_maamarim_unified.pkl.gz
+!maamarim_unified.pkl.gz
+
+# ZIP files
+*.zip
+
+# HTML files (if not needed in container)
+index.html
+robots.txt
+
+# Chunk files (if not needed - the unified pickle should be enough)
+maamarim_chunks/
+maamarim_docs/
+maamarim_txt/
+
+# Index files (if not needed - search should use the pickle)
+maamarim_master_index.json
+maamarim_search_index.json
+maamarim_structured.json
+maamarim_quick_reference.txt
+catalog.json
+START_HERE.json
+
